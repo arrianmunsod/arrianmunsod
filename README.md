@@ -52,6 +52,24 @@ An IT professional with years of experience in System Administration including m
 -->
 <br>
 
+### 🧑‍💼 Work History  
+
+**Software Developer**  
+*ABC Tech Solutions* · *Jan 2023 – Present*  
+- Develop and maintain web applications using modern JavaScript frameworks.  
+- Collaborate with cross-functional teams to deliver scalable and efficient solutions.  
+- Implement RESTful APIs and ensure seamless front-end integration.  
+
+**IT Support Specialist**  
+*XYZ Corporation* · *Jun 2021 – Dec 2022*  
+- Provided technical support and troubleshooting for internal systems.  
+- Assisted in network maintenance and hardware configuration.  
+- Trained staff on new software tools and best IT practices.  
+
+**Intern – Web Development**  
+*InnovateHub PH* · *Jan 2021 – May 2021*  
+- Assisted in buildin
+
 ## 🎓 Education  
 
 <div align="center">

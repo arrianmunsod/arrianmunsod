@@ -1,4 +1,4 @@
-### Hi! I'm Arrian!
+# Hi! I'm Arrian!
 
 An IT professional with years of experience in system administration including managing IT infrastructure: Windows Server, Microsoft Azure, Microsoft 365, SQL Server, PowerShell, Linux Server, Bash, VMWare virtualization, enterprise networking. 
 

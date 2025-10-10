@@ -19,25 +19,27 @@ An IT professional with years of experience in System Administration including m
 - Set Quota (Storage Limit, example: 10 GB per user)
 - Limit file types you can save on the file share folder (example: docx, pdf, jpg, xlsx)
 
+<!-- 
 <details>
- <summary><h3>🟢 <kbd>CLICK HERE TO VIEW MORE PROJECTS ↓</kbd></h3></summary>
+  <summary><h1>🚨 <kbd>VIEW MORE PROJECTS ↓</kbd> 🚨</h1></summary>
 
-  ### 🛒 [E-Commerce Store](https://github.com/yourusername/ecommerce-store)
-  A full-stack online store built with Next.js and Stripe API integration.
+ ### [Automating Creation of an SMB File Share to All Users in an Active Directory Environment](https://github.com/arrianmunsod/PowerShell-Projects/blob/main/Creating-An-SMB-File-Share.ps1)
+  - You can select all users or some users in Active Directory 
+  - Set Quota (Storage Limit, example: 10 GB per user)
+  - Limit file types you can save on the file share folder (example: docx, pdf, jpg, xlsx)
 
-  ### 🗂️ [File Manager API](https://github.com/yourusername/file-manager-api)
-  REST API for secure file storage and retrieval using Node.js and MongoDB.
+ ### [Automating Creation of an SMB File Share to All Users in an Active Directory Environment](https://github.com/arrianmunsod/PowerShell-Projects/blob/main/Creating-An-SMB-File-Share.ps1)
+  - You can select all users or some users in Active Directory 
+  - Set Quota (Storage Limit, example: 10 GB per user)
+  - Limit file types you can save on the file share folder (example: docx, pdf, jpg, xlsx)
 
-  ### 🔐 [Auth System Boilerplate](https://github.com/yourusername/auth-boilerplate)
-  Ready-to-use authentication template with JWT, bcrypt, and role-based access.
-
-  ### 📱 [Mobile Weather App](https://github.com/yourusername/weather-app)
-  A Flutter-based weather forecast app fetching data from OpenWeather API.
-
-  ### 🤖 [Discord Bot](https://github.com/yourusername/discord-bot)
-  A multi-purpose Discord bot for moderation and fun commands.
+ ### [Automating Creation of an SMB File Share to All Users in an Active Directory Environment](https://github.com/arrianmunsod/PowerShell-Projects/blob/main/Creating-An-SMB-File-Share.ps1)
+  - You can select all users or some users in Active Directory 
+  - Set Quota (Storage Limit, example: 10 GB per user)
+  - Limit file types you can save on the file share folder (example: docx, pdf, jpg, xlsx)
 
 </details>
+-->
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=arrianmunsod&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>

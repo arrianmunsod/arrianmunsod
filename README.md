@@ -16,7 +16,7 @@ An IT professional with years of experience in System Administration including m
 
 Here are some of the key projects I’ve worked on:
 
-### 🧠 [AI Chatbot Assistant](https://github.com/PowerShell-Projects/Creating-An-SMB-File-Share.ps1)
+### 🧠 [AI Chatbot Assistant](https://github.com/PowerShell-Projects/blob/main/Creating-An-SMB-File-Share.ps1)
 An intelligent conversational chatbot built with Python and OpenAI API.  
 - Implements NLP techniques for context-aware responses  
 - Includes a web interface using Flask  

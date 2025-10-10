@@ -145,30 +145,6 @@ An IT professional with years of experience in System Administration including m
       <td align="left"><b>CompTIA A+ (220-1101 and 220-1102)</b></td>
       <td align="center">2025</td>
     </tr>
-    <tr>
-      <td align="left"><b>Microsoft 365 Certified - Fundamentals (MS-900)</b></td>
-      <td align="center">2021</td>
-    </tr>
-    <tr>
-      <td align="left"><b>Microsoft Certified - Azure Fundamentals (AZ-900)</b></td>
-      <td align="center">2021</td>
-    </tr>
-    <tr>
-      <td align="left"><b>Microsoft Certified - Security, Compliance, and Identity Fundamentals (SC-900)</b></td>
-      <td align="center">2021</td>
-    </tr>
-    <tr>
-      <td align="left"><b>VMWare Certified Technical Associate - Data Center Virtualization (VCTA-DCV)</b></td>
-      <td align="center">2021</td>
-    </tr>
-    <tr>
-      <td align="left"><b>CompTIA ITF+ Certified (FC0-U61)</b></td>
-      <td align="center">2021</td>
-    </tr>
-    <tr>
-      <td align="left"><b>Pearson IT Specialist - Networking (INF-101)</b></td>
-      <td align="center">2023</td>
-    </tr>
   </table>
 </div>
 * <br>

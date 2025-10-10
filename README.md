@@ -74,7 +74,7 @@ An IT professional with years of experience in System Administration including m
 Verify all my credentials at www.credly.com/users/arrianmunsod
 <br>
 
-<h2 align="left">Credentials / Certs</h2>
+<h2 align="left">🧠 Credentials / Certs</h2>
 
 
 <div align="center">
@@ -92,8 +92,8 @@ Verify all my credentials at www.credly.com/users/arrianmunsod
       <td align="center">2021</td>
     </tr>
     <tr>
-      <td align="left"><b>Cybersecurity Fundamentals & Digital Safety</b></td>
-      <td align="center">2024</td>
+      <td align="left"><b>Microsoft Technology Associate - Networking (MTA-367)</b></td>
+      <td align="center">2021</td>
     </tr>
     <tr>
       <td align="left"><b>Data Analytics with Python Bootcamp</b></td>

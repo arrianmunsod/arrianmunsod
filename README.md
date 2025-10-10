@@ -70,9 +70,12 @@ An IT professional with years of experience in System Administration including m
 
 </div>
 
-<h2 align="left">Credentials / Certs</h2>
+## Verify
 Verify all my credentials at www.credly.com/users/arrianmunsod
-<br />
+
+
+<h2 align="left">Credentials / Certs</h2>
+
 
 <div align="center">
   <table>
@@ -105,23 +108,6 @@ Verify all my credentials at www.credly.com/users/arrianmunsod
       <td align="center">2023</td>
     </tr>
   </table>
-</div>
-
-<h2 align="left">Credentials / Certs</h2>
-
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <a href="https://www.credly.com/badges/c454f818-e3e3-4c98-90fb-2d493f226b47" target="_blank">
-    <img src="https://images.credly.com/images/65593178-9224-43a3-bf3c-98715f94dcf8/MTA-Windows_Server_Administration_Fundamentals-600x600.png" alt="" width="90px" style="max-width: 100%;">
-  </a>
-  <a href="https://www.credly.com/badges/410384f1-9bab-40d3-a667-5e4397d2e7a4" target="_blank">
-    <img src="https://images.credly.com/size/680x680/images/2feaf613-be86-4d79-9cf8-c7aef82031c7/MTA-Networking_Fundamentals-600x600.png" alt="" width="90px" style="max-width: 100%;">
-  </a>
-  <a href="https://www.credly.com/badges/fc10535a-6585-4cf0-a608-44d840ae0262" target="_blank">
-    <img src="https://images.credly.com/size/680x680/images/3f36cda2-b4c2-46ba-a6d8-f11219631451/MTA-Security_Fundamentals-600x600.png" alt="" width="90px" style="max-width: 100%;">
-  </a>
-  <a href="https://www.credly.com/badges/vwxyz" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/vwxyz/ibm-certified-badge.png" alt="" width="100px" style="max-width: 100%;">
-  </a>
 </div>
 
 # 📊 GitHub Stats:

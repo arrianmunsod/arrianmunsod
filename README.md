@@ -19,7 +19,7 @@ An IT professional with years of experience in System Administration including m
 <br />
 ![Static Badge](https://img.shields.io/badge/Linux-red) 
 <br />
-![Static Badge](https://img.shields.io/badge/Users%2C%20Groups%2C%20Permissions%2FACL-blue) ![Static Badge](https://img.shields.io/badge/storage-blue) ![Static Badge](https://img.shields.io/badge/networking-blue) ![Static Badge](https://img.shields.io/badge/Package%20Manager-blue) 
+![Static Badge](https://img.shields.io/badge/Users%2C%20Groups%2C%20Permissions%2FACL-blue) ![Static Badge](https://img.shields.io/badge/Package%20Manager-blue) ![Static Badge](https://img.shields.io/badge/Storage-blue) ![Static Badge](https://img.shields.io/badge/Networking-blue) 
 
 ## PowerShell Projects
 

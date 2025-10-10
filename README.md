@@ -13,7 +13,7 @@ An IT professional with years of experience in System Administration including m
 <br />
 ![Static Badge](https://img.shields.io/badge/Microsoft%20Azure-red)
 <br />
-![Static Badge](https://img.shields.io/badge/Entra%20ID%20%2F%20AAD-blue)
+![Static Badge](https://img.shields.io/badge/Entra%20ID%20%2F%20AAD-blue) ![Static Badge](https://img.shields.io/badge/Azure%20VM-blue) 
 
 ## PowerShell Projects
 

@@ -14,7 +14,8 @@ An IT professional with years of experience in System Administration including m
 ![Static Badge](https://img.shields.io/badge/Microsoft%20Azure-red)
 <br />
 ![Static Badge](https://img.shields.io/badge/Entra%20ID%20(Users%2C%20Groups%2C%20Licensing)-blue)
- ![Static Badge](https://img.shields.io/badge/Azure%20VM-blue) ![Static Badge](https://img.shields.io/badge/Azure%20VNet-blue) ![Static Badge](https://img.shields.io/badge/Azure%20Files-blue) ![Static Badge](https://img.shields.io/badge/Storage%20Services-blue) 
+ ![Static Badge](https://img.shields.io/badge/MFA%2C%20SSPR-blue) 
+![Static Badge](https://img.shields.io/badge/Azure%20VM-blue) ![Static Badge](https://img.shields.io/badge/Azure%20VNet-blue) ![Static Badge](https://img.shields.io/badge/Azure%20Files-blue) ![Static Badge](https://img.shields.io/badge/Storage%20Services-blue) 
 
 ## PowerShell Projects
 

@@ -4,7 +4,7 @@
 
 An IT professional with years of experience in System Administration including managing IT infrastructure.<br><br>I have had the opportunity to function in different corporate environments full time. I also work part-time as an IT Technician / Consultant to personal clients and small-to-medium business offices.
 
-# 💻 Tech Stack / Skills:
+## 💻 Tech Stack / Skills:
 
 ![Static Badge](https://img.shields.io/badge/Windows%20Server-red) ![Static Badge](https://img.shields.io/badge/PowerShell-red)
 <br />

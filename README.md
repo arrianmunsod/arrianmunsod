@@ -42,7 +42,27 @@ An IT professional with years of experience in System Administration including m
 -->
 
 ## Credentials / Education / Certifications
+
+<!--
 [![AWS Certified Cloud Practitioner](https://images.credly.com/size/340x340/images/65593178-9224-43a3-bf3c-98715f94dcf8/MTA-Windows_Server_Administration_Fundamentals-600x600.png)](https://www.credly.com/badges/c454f818-e3e3-4c98-90fb-2d493f226b47)
+--> 
+
+<h2 align="center">🏅 My Credly Certifications</h2>
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <a href="https://www.credly.com/badges/c454f818-e3e3-4c98-90fb-2d493f226b47" target="_blank">
+    <img src="https://images.credly.com/images/65593178-9224-43a3-bf3c-98715f94dcf8/MTA-Windows_Server_Administration_Fundamentals-600x600.png" alt="AWS Certified" width="100px" style="max-width: 100%;">
+  </a>
+  <a href="https://www.credly.com/badges/hijklmn" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/hijklmn/azure-certified-badge.png" alt="Azure Certified" width="100px" style="max-width: 100%;">
+  </a>
+  <a href="https://www.credly.com/badges/opqrstu" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/opqrstu/google-certified-badge.png" alt="Google Certified" width="100px" style="max-width: 100%;">
+  </a>
+  <a href="https://www.credly.com/badges/vwxyz" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/vwxyz/ibm-certified-badge.png" alt="IBM Certified" width="100px" style="max-width: 100%;">
+  </a>
+</div>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=arrianmunsod&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>

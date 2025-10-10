@@ -70,7 +70,6 @@ An IT professional with years of experience in System Administration including m
 
 </div>
 <br>
-
 ## 🔍 Verify My Credentials
 Verify all my credentials at www.credly.com/users/arrianmunsod
 <br>

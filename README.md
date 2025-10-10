@@ -4,7 +4,7 @@
 
 An IT professional with years of experience in System Administration including managing IT infrastructure.<br><br>I have had the opportunity to function in different corporate environments. I also work part-time as an IT Technician / Consultant to personal clients and small-to-medium business offices.
 
-# 💻 Tech Stack:
+# 💻 Tech Stack / Skills:
 
 ![Static Badge](https://img.shields.io/badge/PowerShell-red)
 <br />
@@ -13,6 +13,8 @@ An IT professional with years of experience in System Administration including m
 ![Static Badge](https://img.shields.io/badge/Active%20Directory-blue) ![Static Badge](https://img.shields.io/badge/Group%20Policy%20Objects-blue) ![Static Badge](https://img.shields.io/badge/File%20Server%20Resource%20Manager%20(Quota%2C%20File%20Screening)-blue) ![Static Badge](https://img.shields.io/badge/File%20Shares%20(SMB%2C%20NFS)-blue) ![Static Badge](https://img.shields.io/badge/Auditing-blue) ![Static Badge](https://img.shields.io/badge/WSUS-blue) ![Static Badge](https://img.shields.io/badge/IIS-blue) ![Static Badge](https://img.shields.io/badge/Distributed%20File%20System-blue) ![Static Badge](https://img.shields.io/badge/Resource%2FPerformance%20Monitor-blue) ![Static Badge](https://img.shields.io/badge/Windows%20Server%20Backup-blue) ![Static Badge](https://img.shields.io/badge/Certificate%20Services-blue) 
 <br />
 ![Static Badge](https://img.shields.io/badge/Microsoft%20Azure-red)
+<br />
+![Static Badge](https://img.shields.io/badge/Entra%20ID%20%2F%20AAD-blue)
 
 ## PowerShell Projects
 

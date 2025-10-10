@@ -107,7 +107,7 @@ www.credential.net/profile/arrianmunsod <br><br>
       <td align="center">2021</td>
     </tr>
     <tr>
-      <td align="left"><b>Microsoft Technology Associate - Networking (MTA-366)</b></td>
+      <td align="left"><b>VMWare Certified Technical Associate - Data Center Virtualization (VCTA-DCV)</b></td>
       <td align="center">2021</td>
     </tr>
     <tr>

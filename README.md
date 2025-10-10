@@ -3,7 +3,7 @@
 **`System Administrator / IT Technician`**
 
 An IT professional with years of experience in System Administration including managing IT infrastructure.<br><br>I have had the opportunity to function in different corporate environments full time. I also work part-time as an IT Technician / Consultant to personal clients and small-to-medium business offices. <br>
-/
+*
 
 ## 💻 Tech Stack / Skills:
 
@@ -20,6 +20,7 @@ An IT professional with years of experience in System Administration including m
 <br> ![Static Badge](https://img.shields.io/badge/TCP%2FIP-blue) ![Static Badge](https://img.shields.io/badge/DNS-blue)
  ![Static Badge](https://img.shields.io/badge/DHCP-blue) ![Static Badge](https://img.shields.io/badge/NAT-blue) ![Static Badge](https://img.shields.io/badge/VLAN-blue) ![Static Badge](https://img.shields.io/badge/STP-blue) ![Static Badge](https://img.shields.io/badge/VPN-blue) ![Static Badge](https://img.shields.io/badge/IPv4%2C%20IPv6-blue) 
 <br>![Static Badge](https://img.shields.io/badge/VMWare-red) ![Static Badge](https://img.shields.io/badge/vSphere%2C%20ESXi-red)<br> ![Static Badge](https://img.shields.io/badge/VM%20Provisioning-blue) ![Static Badge](https://img.shields.io/badge/VM%20Cloning-blue) ![Static Badge](https://img.shields.io/badge/Fault%20Tolerance-blue) ![Static Badge](https://img.shields.io/badge/Disaster%20Recovery-blue) ![Static Badge](https://img.shields.io/badge/Distributed%20Resource%20Scheduler-blue) <br>
+*
 
 ## 📂 PowerShell Projects
 

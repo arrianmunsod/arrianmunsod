@@ -142,7 +142,7 @@ An IT professional with years of experience in System Administration including m
       <td align="center">2025</td>
     </tr>
     <tr>
-      <td align="left"><b>CompTIA A+ (220-1101 and 220-1102)(</b></td>
+      <td align="left"><b>CompTIA A+ (220-1101 and 220-1102)</b></td>
       <td align="center">2025</td>
     </tr>
     <tr>

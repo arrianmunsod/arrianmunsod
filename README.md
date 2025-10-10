@@ -69,7 +69,7 @@ An IT professional with years of experience in System Administration including m
 **Intern – Web Development**  
 *InnovateHub PH* · *Jan 2021 – May 2021*  
 - Assisted in building
-*
+
 <br>
 
 ## 🎓 Education  

@@ -70,12 +70,12 @@ An IT professional with years of experience in System Administration including m
 
 </div>
 
-<h3 align="center">🎓 Seminars & Workshops Attended</h3>
+<h3 align="center">Credentials / Certs</h3>
 
 <div align="center">
   <table>
     <tr>
-      <th align="left">🧠 Seminar / Workshop Title</th>
+      <th align="left">🧠 Title</th>
       <th align="center">🗓️ Date</th>
     </tr>
     <tr>

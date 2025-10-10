@@ -69,7 +69,7 @@ Verify all my credentials at <br>
 www.credly.com/users/arrianmunsod  <br>
 www.credential.net/profile/arrianmunsod <br><br>
 
-<h2 align="left">🧠 Credentials / Certs</h2>
+<h2 align="left">🧠 Certifications</h2>
 
 <div align="left">
   <table>
@@ -121,7 +121,7 @@ www.credential.net/profile/arrianmunsod <br><br>
 </div>
 * <br>
 
-<h2 align="left">🧠 Credentials / Certs</h2>
+<h2 align="left">🧠 Certificate of Completion (Training Only, no exam)</h2>
 
 <div align="left">
   <table>

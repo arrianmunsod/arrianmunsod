@@ -71,8 +71,9 @@ An IT professional with years of experience in System Administration including m
 </div>
 
 ## 🔍 Verify My Credentials
-Verify all my credentials at www.credly.com/users/arrianmunsod
 (American Council on Education College Credits, Certifications, Trainings, Certificate of Completion)
+Verify all my credentials at www.credly.com/users/arrianmunsod
+
 
 <br>
 

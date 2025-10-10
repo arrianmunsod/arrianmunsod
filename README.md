@@ -69,6 +69,7 @@ An IT professional with years of experience in System Administration including m
 | **Bachelor of Science in Information Technology** | University of the East | * |
 
 </div>
+<br>
 
 ## 🔍 Verify My Credentials
 Verify all my credentials at www.credly.com/users/arrianmunsod

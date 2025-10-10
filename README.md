@@ -115,11 +115,11 @@ www.credential.net/profile/arrianmunsod <br><br>
       <td align="center">2021</td>
     </tr>
     <tr>
-      <td align="left"><b>CompTIA ITF+ Certified</b></td>
+      <td align="left"><b>CompTIA ITF+ Certified (FC0-U61)</b></td>
       <td align="center">2021</td>
     </tr>
     <tr>
-      <td align="left"><b>Pearson IT Specialist - Networking</b></td>
+      <td align="left"><b>Pearson IT Specialist - Networking (INF-101)</b></td>
       <td align="center">2023</td>
     </tr>
     <tr>

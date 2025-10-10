@@ -18,8 +18,8 @@ An IT professional with years of experience in System Administration including m
 <br> ![Static Badge](https://img.shields.io/badge/Networking-red) 
 <br> ![Static Badge](https://img.shields.io/badge/TCP%2FIP-blue) ![Static Badge](https://img.shields.io/badge/DNS-blue)
  ![Static Badge](https://img.shields.io/badge/DHCP-blue) ![Static Badge](https://img.shields.io/badge/NAT-blue) ![Static Badge](https://img.shields.io/badge/VLAN-blue) ![Static Badge](https://img.shields.io/badge/STP-blue) ![Static Badge](https://img.shields.io/badge/VPN-blue) ![Static Badge](https://img.shields.io/badge/IPv4%2C%20IPv6-blue) 
-<br>![Static Badge](https://img.shields.io/badge/VMWare-red) ![Static Badge](https://img.shields.io/badge/vSphere%2C%20ESXi-red)<br> ![Static Badge](https://img.shields.io/badge/VM%20Provisioning-blue) ![Static Badge](https://img.shields.io/badge/VM%20Cloning-blue) ![Static Badge](https://img.shields.io/badge/Fault%20Tolerance-blue) ![Static Badge](https://img.shields.io/badge/Disaster%20Recovery-blue) ![Static Badge](https://img.shields.io/badge/Distributed%20Resource%20Scheduler-blue) 
-<br>
+<br>![Static Badge](https://img.shields.io/badge/VMWare-red) ![Static Badge](https://img.shields.io/badge/vSphere%2C%20ESXi-red)<br> ![Static Badge](https://img.shields.io/badge/VM%20Provisioning-blue) ![Static Badge](https://img.shields.io/badge/VM%20Cloning-blue) ![Static Badge](https://img.shields.io/badge/Fault%20Tolerance-blue) ![Static Badge](https://img.shields.io/badge/Disaster%20Recovery-blue) ![Static Badge](https://img.shields.io/badge/Distributed%20Resource%20Scheduler-blue) <br>
+
 ## 📂 PowerShell Projects
 
 ### [Automating Creation of an SMB File Share to All Users in an Active Directory Environment](https://github.com/arrianmunsod/PowerShell-Projects/blob/main/Creating-An-SMB-File-Share.ps1)

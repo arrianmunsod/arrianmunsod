@@ -71,6 +71,7 @@ An IT professional with years of experience in System Administration including m
 </div>
 
 <h3 align="center">Credentials / Certs</h3>
+Verify all my credentials at www.credly.com/users/arrianmunsod
 
 <div align="center">
   <table>
@@ -79,7 +80,7 @@ An IT professional with years of experience in System Administration including m
       <th align="center">🗓️ Date</th>
     </tr>
     <tr>
-      <td align="left"><b>AI in Software Development: Leveraging Generative Models</b></td>
+      <td align="left"><b>Microsoft Technology Associate - Windows Server Administration (MTA-365)</b></td>
       <td align="center">2025</td>
     </tr>
     <tr>

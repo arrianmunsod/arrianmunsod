@@ -23,7 +23,9 @@ An IT professional with years of experience in System Administration including m
 <br /> 
 ![Static Badge](https://img.shields.io/badge/Networking-red) 
 <br /> 
-![Static Badge](https://img.shields.io/badge/TCP%2FIP-blue) 
+![Static Badge](https://img.shields.io/badge/TCP%2FIP-blue) ![Static Badge](https://img.shields.io/badge/DNS-blue)
+ ![Static Badge](https://img.shields.io/badge/DHCP-blue) ![Static Badge](https://img.shields.io/badge/NAT-blue)
+ 
 
 ## PowerShell Projects
 

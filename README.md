@@ -174,8 +174,8 @@ An IT professional with years of experience in System Administration including m
 * <br>
 
 ## 📫 Contact Me 
-### Email: arrianmunsod879@gmail.com
-### LinkedIn: www.linkedin.com/in/arrianmunsod
+#### Email: arrianmunsod879@gmail.com
+#### LinkedIn: www.linkedin.com/in/arrianmunsod
 *
 
 # 📊 GitHub Stats:

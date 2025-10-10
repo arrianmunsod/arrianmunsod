@@ -121,7 +121,7 @@ An IT professional with years of experience in System Administration including m
 </div>
 * <br>
 
-<h2 align="left">🧠 Certificate of Completion (Training Only, no exam)</h2>
+<h2 align="left">🧠 Certificate of Completion (training only, no exam)</h2>
 
 <div align="left">
   <table>
@@ -130,12 +130,12 @@ An IT professional with years of experience in System Administration including m
       <th align="center">🗓️ Date</th>
     </tr>
     <tr>
-      <td align="left"><b>Microsoft Technology Associate - Windows Server Administration (MTA-365)</b></td>
-      <td align="center">2021</td>
+      <td align="left"><b>CompTIA Server+ (SK0-005)</b></td>
+      <td align="center">2024</td>
     </tr>
     <tr>
-      <td align="left"><b>Microsoft Technology Associate - Networking (MTA-366)</b></td>
-      <td align="center">2021</td>
+      <td align="left"><b>CompTIA Linux+ (XK0-005)</b></td>
+      <td align="center">2025</td>
     </tr>
     <tr>
       <td align="left"><b>Microsoft Technology Associate - Networking (MTA-367)</b></td>

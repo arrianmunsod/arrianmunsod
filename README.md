@@ -41,6 +41,7 @@ An IT professional with years of experience in System Administration including m
 </details>
 -->
 
+# Credentials / Education / Certifications
 [![AWS Certified Cloud Practitioner](https://images.credly.com/size/340x340/images/65593178-9224-43a3-bf3c-98715f94dcf8/MTA-Windows_Server_Administration_Fundamentals-600x600.png)](https://www.credly.com/badges/c454f818-e3e3-4c98-90fb-2d493f226b47)
 
 # 📊 GitHub Stats:

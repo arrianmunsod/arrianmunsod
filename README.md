@@ -11,13 +11,13 @@ An IT professional with years of experience in System Administration including m
 ![Static Badge](https://img.shields.io/badge/Active%20Directory-blue) ![Static Badge](https://img.shields.io/badge/Group%20Policy%20Objects-blue) ![Static Badge](https://img.shields.io/badge/File%20Server%20Resource%20Manager%20(Quota%2C%20File%20Screening)-blue) ![Static Badge](https://img.shields.io/badge/File%20Shares%20(SMB%2C%20NFS)-blue) ![Static Badge](https://img.shields.io/badge/Auditing-blue) ![Static Badge](https://img.shields.io/badge/WSUS-blue) ![Static Badge](https://img.shields.io/badge/IIS-blue) ![Static Badge](https://img.shields.io/badge/Distributed%20File%20System-blue) ![Static Badge](https://img.shields.io/badge/Hyper--V-blue)
  ![Static Badge](https://img.shields.io/badge/Resource%2FPerformance%20Monitor-blue) ![Static Badge](https://img.shields.io/badge/Windows%20Server%20Backup-blue) ![Static Badge](https://img.shields.io/badge/Certificate%20Services-blue) 
 <br />
-![Static Badge](https://img.shields.io/badge/Microsoft%20Azure-red) ![Static Badge](https://img.shields.io/badge/Bash-red) 
+![Static Badge](https://img.shields.io/badge/Microsoft%20Azure-red) 
 <br />
 ![Static Badge](https://img.shields.io/badge/Entra%20ID%20(Users%2C%20Groups%2C%20Licensing)-blue)
  ![Static Badge](https://img.shields.io/badge/MFA%2C%20SSPR-blue) 
 ![Static Badge](https://img.shields.io/badge/Azure%20VM-blue) ![Static Badge](https://img.shields.io/badge/Azure%20VNet-blue) ![Static Badge](https://img.shields.io/badge/Azure%20Files-blue) ![Static Badge](https://img.shields.io/badge/Storage%20Services-blue) 
 <br />
-![Static Badge](https://img.shields.io/badge/Linux-red) 
+![Static Badge](https://img.shields.io/badge/Linux-red) ![Static Badge](https://img.shields.io/badge/Bash-red) 
 <br />
 ![Static Badge](https://img.shields.io/badge/Users%2C%20Groups%2C%20Permissions%2FACL-blue) ![Static Badge](https://img.shields.io/badge/Package%20Manager-blue) ![Static Badge](https://img.shields.io/badge/Storage-blue) ![Static Badge](https://img.shields.io/badge/Networking-blue) ![Static Badge](https://img.shields.io/badge/Cron%20Scheduling-blue)
 <br /> 

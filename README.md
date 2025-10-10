@@ -15,8 +15,8 @@ An IT professional with years of experience in System Administration including m
 ## PowerShell Projects
 
 ### [Automating Creation of an SMB File Share to All Users in an Active Directory Environment](https://github.com/arrianmunsod/PowerShell-Projects/blob/main/Creating-An-SMB-File-Share.ps1)
-- You can select all users or some users in Active Directory 
-- Set Quota (Storage Limit, example: 10 GB per user)
+- You can select all users or some users or groups in Active Directory 
+- Set Quota to newly created SMB file share folder (Storage Limit, example: 10 GB per user)
 - Limit file types you can save on the file share folder (example: docx, pdf, jpg, xlsx)
 
 <!-- 

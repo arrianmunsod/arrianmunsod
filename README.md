@@ -56,7 +56,7 @@ An IT professional with years of experience in System Administration including m
 </details>
 -->
 
-<h2 align="left">Education / Certifications</h2>
+<h2 align="left">🎓 Education / Certifications</h2>
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <a href="https://www.credly.com/badges/c454f818-e3e3-4c98-90fb-2d493f226b47" target="_blank">

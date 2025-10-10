@@ -61,9 +61,12 @@ An IT professional with years of experience in System Administration including m
 **IT Administrator**  
 *Retailer Company* · *Jun 2018 – Sep 2019 (more than 1 year)*  
 - Migrated / upgraded / scaled company’s existing peer-to-peer network to a client-server network with Windows Server 2016 - 2019 domain controllers running on vSphere environment for agile scalability and centralized manageability. 
-- Replaced / upgraded company’s existing SOHO network infrastructure to a scalable enterprise network; from (dynamic public IP address, copper DSL, SOHO routers, unmanaged switches) to (FortiGate firewall, wireless WAN, Cisco routers and switches, static public IP address, fiber internet, DNS and DHCP running on Windows Server, dedicated on-premise file servers accessible through the internet via VPN).
-- Automated IT tasks using PowerShell scripts, managed Microsoft cloud services (Azure AD and Office 365), and handled various
-on-premises systems like PABX, CCTV, and biometrics, as well as Google Workspace mail accounts. 
+- Replaced / upgraded company’s existing SOHO network infrastructure to a scalable enterprise network, from (copper DSL, dynamic public IP address, SOHO routers, unmanaged switches) to (FortiGate firewall, wireless WAN, Cisco routers and switches, DHCP and DNS running on Windows Server, fiber internet, static public IP address).
+- Replaced company’s existing file sharing solution through external drives and emails with centralized dedicated file servers accessible through the internet via VPN, and with public cloud storage.
+- Upgraded workstations with SSD and additional RAMs, migrated OS from Windows 7 to 10, joined workstations to domain.
+- Wrote PowerShell scripts to automate repetitive IT tasks such as generating reports ang logs, Office 365 / user management.
+- Managed Azure Active Directory (Entra ID), Office 365 applications, licenses, and permissions.
+- Setup and managed analog PABX, CCTV, fingerprint biometrics, emails accounts on Google Workspace (GSuite).
 
 **Junior System Administrator**  
 *Korean BPO Company* · *Aug 2012 – Dec 2016 (more than 4 years)*  

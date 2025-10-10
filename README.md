@@ -15,9 +15,9 @@ An IT professional with years of experience in System Administration including m
 ## PowerShell Projects
 
 ### [Automating Creation of an SMB File Share to All Users in an Active Directory Environment](https://github.com/arrianmunsod/PowerShell-Projects/blob/main/Creating-An-SMB-File-Share.ps1)
-- Implements NLP techniques for context-aware responses  
-- Includes a web interface using Flask  
-- Supports multiple conversation modes  
+- You can select all users or some users in Active Directory 
+- Set Quota (Storage Limit, example: 10 GB per user)
+- Limit file types you can save on the file share folder (example: docx, pdf, jpg, xlsx)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=arrianmunsod&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>

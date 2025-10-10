@@ -59,15 +59,16 @@ An IT professional with years of experience in System Administration including m
 - Act as an external IT support to personal clients and small-to-medium businesses / offices. 
 
 **IT Administrator**  
-*Retailer Company* · *Jun 2018 – Sep 2019*  
+*Retailer Company* · *Jun 2018 – Sep 2019 (more than 1 year)*  
 - Migrated / upgraded / scaled company’s existing peer-to-peer network to a client-server network with Windows Server 2016 - 2019 domain controllers running on vSphere environment for agile scalability and centralized manageability. 
 - Replaced / upgraded company’s existing SOHO network infrastructure to a scalable enterprise network; from (dynamic public IP address, copper DSL, SOHO routers, unmanaged switches) to (FortiGate firewall, wireless WAN, Cisco routers and switches, static public IP address, fiber internet, DNS and DHCP running on Windows Server, dedicated on-premise file servers accessible through the internet via VPN).
 - Automated IT tasks using PowerShell scripts, managed Microsoft cloud services (Azure AD and Office 365), and handled various
 on-premises systems like PABX, CCTV, and biometrics, as well as Google Workspace mail accounts. 
 
-**Intern – Web Development**  
-*InnovateHub PH* · *Jan 2021 – May 2021*  
-- Assisted in building
+**Junior System Administrator**  
+*Korean BPO Company* · *Aug 2012 – Dec 2016 (more than 4 years)*  
+- Configured and managed VMWare vSphere, Windows Server 2008 - 2012, Active Directory, Group Policies (GPO), folder permissions.
+- Setup structured cabling, VLAN, port security, trunking, STP configuration on Cisco devices; DHCP and DNS running on Windows Server.
 
 <br>
 

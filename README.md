@@ -70,9 +70,10 @@ An IT professional with years of experience in System Administration including m
 
 </div>
 
-<h2 align="center">Credentials / Certs</h2>
+<h2 align="left">Credentials / Certs</h2>
 Verify all my credentials at www.credly.com/users/arrianmunsod
 <br />
+
 <div align="center">
   <table>
     <tr>

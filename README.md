@@ -52,7 +52,7 @@ An IT professional with years of experience in System Administration including m
 -->
 <br>
 
-### 🧑‍💼 Work History  
+## 🧑‍💼 Work History  
 
 **Software Developer**  
 *ABC Tech Solutions* · *Jan 2023 – Present*  

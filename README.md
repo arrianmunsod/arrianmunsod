@@ -54,11 +54,9 @@ An IT professional with years of experience in System Administration including m
 
 ## 🧑‍💼 Work History  
 
-**Software Developer**  
-*ABC Tech Solutions* · *Jan 2023 – Present*  
-- Develop and maintain web applications using modern JavaScript frameworks.  
-- Collaborate with cross-functional teams to deliver scalable and efficient solutions.  
-- Implement RESTful APIs and ensure seamless front-end integration.  
+**Freelance IT Technician**  
+*WA* · *2020 – Present*  
+- Act as an external IT support to personal clients and small-to-medium businesses / offices. 
 
 **IT Support Specialist**  
 *XYZ Corporation* · *Jun 2021 – Dec 2022*  

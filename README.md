@@ -91,16 +91,16 @@ www.credential.net/profile/arrianmunsod <br><br>
       <td align="center">2021</td>
     </tr>
     <tr>
-      <td align="left"><b>Data Analytics with Python Bootcamp</b></td>
-      <td align="center">2024</td>
+      <td align="left"><b>Administering Server Hybrid Core Infrastructure (AZ-800)</b></td>
+      <td align="center">2022</td>
     </tr>
     <tr>
-      <td align="left"><b>Career Growth for Developers: Personal Branding on GitHub</b></td>
-      <td align="center">2023</td>
+      <td align="left"><b>Microsoft 365 Certified - Fundamentals (MS-900)</b></td>
+      <td align="center">2021</td>
     </tr>
     <tr>
-      <td align="left"><b>Agile Project Management Essentials</b></td>
-      <td align="center">2023</td>
+      <td align="left"><b>Microsoft Certified - Azure Fundamentals (AZ-900)</b></td>
+      <td align="center">2021</td>
     </tr>
   </table>
 </div>

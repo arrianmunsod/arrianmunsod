@@ -28,8 +28,7 @@ An IT professional with years of experience in System Administration including m
 <br />
 ![Static Badge](https://img.shields.io/badge/VMWare-red) ![Static Badge](https://img.shields.io/badge/vSphere%2C%20ESXi-red)
 <br /> 
-<br />
-![Static Badge](https://img.shields.io/badge/VM%20Provisioning-blue) 
+![Static Badge](https://img.shields.io/badge/VM%20Provisioning-blue) ![Static Badge](https://img.shields.io/badge/VM%20Cloning-blue) 
 
 ## 📂 PowerShell Projects
 

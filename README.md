@@ -69,7 +69,7 @@ www.credential.net/profile/arrianmunsod <br><br>
 <h2 align="left">🧠 Credentials / Certs</h2>
 
 
-<div align="center">
+<div align="left">
   <table>
     <tr>
       <th align="left">🧠 Title</th>

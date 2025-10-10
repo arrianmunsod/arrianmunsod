@@ -58,7 +58,7 @@ An IT professional with years of experience in System Administration including m
 
 | 🎓 Degree | 🏫 Institution | 📅 Year |
 |:--|:--|:--|
-| **Semester Hours Earned: 154 College Credits focused on System Administration, Cloud Computing, Networking** | American Council on Education | 2021 – 2025 |
+| **College Credits Earned: 154 Semester Hours focused on System Administration, Cloud Computing, Networking** | American Council on Education | 2021 – 2025 |
 | **Bachelor of Science in Information Technology** | University of the East | * |
 
 </div><br>

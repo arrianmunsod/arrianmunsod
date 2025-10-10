@@ -1,10 +1,10 @@
-# 💻 Arrian Munsod
+# 🐈 Arrian Munsod
 
 **`System Administrator / IT Technician / IT Consultant`**
 
 An IT professional with years of experience in System Administration including managing IT infrastructure.<br><br>I have had the opportunity to function in different corporate environments. I also work part-time as an IT Technician / Consultant to personal clients and small-to-medium business offices.
 
-# 💫 Tech Stack:
+# 💻 Tech Stack:
 #### Windows Server | Microsoft Azure | Microsoft 365 | PowerShell | SQL Server | Linux | Bash | VMWare | Networking
 
 # 📊 GitHub Stats:

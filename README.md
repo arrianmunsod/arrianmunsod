@@ -70,6 +70,41 @@ An IT professional with years of experience in System Administration including m
 
 </div>
 
+<h3 align="center">🎓 Seminars & Workshops Attended</h3>
+
+<div align="center">
+  <table>
+    <tr>
+      <th align="left">🧠 Seminar / Workshop Title</th>
+      <th align="center">🗓️ Date</th>
+    </tr>
+    <tr>
+      <td align="left"><b>AI in Software Development: Leveraging Generative Models</b></td>
+      <td align="center">2025</td>
+    </tr>
+    <tr>
+      <td align="left"><b>Building Scalable Web Apps with Next.js</b></td>
+      <td align="center">2025</td>
+    </tr>
+    <tr>
+      <td align="left"><b>Cybersecurity Fundamentals & Digital Safety</b></td>
+      <td align="center">2024</td>
+    </tr>
+    <tr>
+      <td align="left"><b>Data Analytics with Python Bootcamp</b></td>
+      <td align="center">2024</td>
+    </tr>
+    <tr>
+      <td align="left"><b>Career Growth for Developers: Personal Branding on GitHub</b></td>
+      <td align="center">2023</td>
+    </tr>
+    <tr>
+      <td align="left"><b>Agile Project Management Essentials</b></td>
+      <td align="center">2023</td>
+    </tr>
+  </table>
+</div>
+
 <h2 align="left">Credentials / Certs</h2>
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">

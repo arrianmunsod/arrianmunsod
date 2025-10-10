@@ -86,7 +86,7 @@ An IT professional with years of experience in System Administration including m
       <td align="center">2021</td>
     </tr>
     <tr>
-      <td align="left"><b>Microsoft Technology Associate - Networking (MTA-367)</b></td>
+      <td align="left"><b>Microsoft Technology Associate - Security (MTA-367)</b></td>
       <td align="center">2021</td>
     </tr>
     <tr>

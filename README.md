@@ -71,6 +71,57 @@ www.credential.net/profile/arrianmunsod <br><br>
 
 <h2 align="left">🧠 Credentials / Certs</h2>
 
+<div align="left">
+  <table>
+    <tr>
+      <th align="left">🧠 Title</th>
+      <th align="center">🗓️ Date</th>
+    </tr>
+    <tr>
+      <td align="left"><b>Microsoft Technology Associate - Windows Server Administration (MTA-365)</b></td>
+      <td align="center">2021</td>
+    </tr>
+    <tr>
+      <td align="left"><b>Microsoft Technology Associate - Networking (MTA-366)</b></td>
+      <td align="center">2021</td>
+    </tr>
+    <tr>
+      <td align="left"><b>Microsoft Technology Associate - Networking (MTA-367)</b></td>
+      <td align="center">2021</td>
+    </tr>
+    <tr>
+      <td align="left"><b>Administering Server Hybrid Core Infrastructure (AZ-800)</b></td>
+      <td align="center">2022</td>
+    </tr>
+    <tr>
+      <td align="left"><b>Microsoft 365 Certified - Fundamentals (MS-900)</b></td>
+      <td align="center">2021</td>
+    </tr>
+    <tr>
+      <td align="left"><b>Microsoft Certified - Azure Fundamentals (AZ-900)</b></td>
+      <td align="center">2021</td>
+    </tr>
+    <tr>
+      <td align="left"><b>Microsoft Certified - Security, Compliance, and Identity Fundamentals (SC-900)</b></td>
+      <td align="center">2021</td>
+    </tr>
+    <tr>
+      <td align="left"><b>VMWare Certified Technical Associate - Data Center Virtualization (VCTA-DCV)</b></td>
+      <td align="center">2021</td>
+    </tr>
+    <tr>
+      <td align="left"><b>CompTIA ITF+ Certified (FC0-U61)</b></td>
+      <td align="center">2021</td>
+    </tr>
+    <tr>
+      <td align="left"><b>Pearson IT Specialist - Networking (INF-101)</b></td>
+      <td align="center">2023</td>
+    </tr>
+  </table>
+</div>
+* <br>
+
+<h2 align="left">🧠 Credentials / Certs</h2>
 
 <div align="left">
   <table>

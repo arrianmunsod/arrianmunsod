@@ -64,7 +64,7 @@ An IT professional with years of experience in System Administration including m
 (American Council on Education College Credits, Certifications, Trainings, Certificate of Completion)<br>
 Verify all my credentials at <br>
 www.credly.com/users/arrianmunsod  <br>
-www.credential.net/profile/arrianmunsod
+www.credential.net/profile/arrianmunsod <br>
 
 <h2 align="left">🧠 Credentials / Certs</h2>
 

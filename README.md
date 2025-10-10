@@ -49,6 +49,7 @@ An IT professional with years of experience in System Administration including m
 </details>
 -->
 <br>
+
 ## 🎓 Education  
 
 <div align="center">

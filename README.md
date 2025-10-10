@@ -82,11 +82,11 @@ Verify all my credentials at www.credly.com/users/arrianmunsod
     </tr>
     <tr>
       <td align="left"><b>Microsoft Technology Associate - Windows Server Administration (MTA-365)</b></td>
-      <td align="center">2025</td>
+      <td align="center">2021</td>
     </tr>
     <tr>
-      <td align="left"><b>Building Scalable Web Apps with Next.js</b></td>
-      <td align="center">2025</td>
+      <td align="left"><b>Microsoft Technology Associate - Networking (MTA-366)</b></td>
+      <td align="center">2021</td>
     </tr>
     <tr>
       <td align="left"><b>Cybersecurity Fundamentals & Digital Safety</b></td>

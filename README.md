@@ -70,7 +70,7 @@ An IT professional with years of experience in System Administration including m
 
 </div>
 
-<h2 align="left">🎓 Certifications / Credentials</h2>
+<h2 align="left">Credentials / Certs</h2>
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <a href="https://www.credly.com/badges/c454f818-e3e3-4c98-90fb-2d493f226b47" target="_blank">

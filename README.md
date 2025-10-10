@@ -58,11 +58,12 @@ An IT professional with years of experience in System Administration including m
 *WA* · *2020 – Present*  
 - Act as an external IT support to personal clients and small-to-medium businesses / offices. 
 
-**IT Support Specialist**  
-*XYZ Corporation* · *Jun 2021 – Dec 2022*  
-- Provided technical support and troubleshooting for internal systems.  
-- Assisted in network maintenance and hardware configuration.  
-- Trained staff on new software tools and best IT practices.  
+**IT Administrator**  
+*Retailer Company* · *Jun 2018 – Sep 2019*  
+- Migrated / upgraded / scaled company’s existing peer-to-peer network to a client-server network with Windows Server 2016 - 2019 domain controllers running on vSphere environment for agile scalability and centralized manageability. 
+- Replaced / upgraded company’s existing SOHO network infrastructure to a scalable enterprise network; from (dynamic public IP address, copper DSL, SOHO routers, unmanaged switches) to (FortiGate firewall, wireless WAN, Cisco routers and switches, static public IP address, fiber internet, DNS and DHCP running on Windows Server, dedicated on-premise file servers accessible through the internet via VPN).
+- Automated IT tasks using PowerShell scripts, managed Microsoft cloud services (Azure AD and Office 365), and handled various
+on-premises systems like PABX, CCTV, and biometrics, as well as Google Workspace mail accounts. 
 
 **Intern – Web Development**  
 *InnovateHub PH* · *Jan 2021 – May 2021*  

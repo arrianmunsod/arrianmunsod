@@ -25,7 +25,9 @@ An IT professional with years of experience in System Administration including m
 <br /> 
 ![Static Badge](https://img.shields.io/badge/TCP%2FIP-blue) ![Static Badge](https://img.shields.io/badge/DNS-blue)
  ![Static Badge](https://img.shields.io/badge/DHCP-blue) ![Static Badge](https://img.shields.io/badge/NAT-blue) ![Static Badge](https://img.shields.io/badge/VLAN-blue) ![Static Badge](https://img.shields.io/badge/STP-blue) ![Static Badge](https://img.shields.io/badge/VPN-blue) ![Static Badge](https://img.shields.io/badge/IPv4%2C%20IPv6-blue) 
- 
+<br />
+![Static Badge](https://img.shields.io/badge/VMWare-red) ![Static Badge](https://img.shields.io/badge/vSphere%2C%20ESXi-red)
+<br />
 
 ## 📂 PowerShell Projects
 

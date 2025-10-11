@@ -99,10 +99,13 @@ An IT professional with years of experience in System Administration including m
 </div><br>
 
 ## 🔍 Verify My Credentials
-<h3>(American Council on Education College Credits, Certifications, Trainings, Certificate of Completion)</h3>
-<h4>Browse and verify all my credentials at</h4>
-<h4>www.credly.com/users/arrianmunsod</h4>
-<h4>www.credential.net/profile/arrianmunsod</h4> <br>
+<b>Verify my complete list of credentials at:</b> <br>
+<b>www.credly.com/users/arrianmunsod</b><br>
+<b>www.credential.net/profile/arrianmunsod</b>
+- American Council on Education College Credits
+- Certifications
+- Trainings / Self-paced Learning
+- Certificate of Completion
 
 <h2 align="left">🧠 Certifications</h2>
 

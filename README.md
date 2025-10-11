@@ -61,7 +61,7 @@ An IT professional with years of experience in System Administration including m
 -->
 <br>
 
-## 📄 Personal Labs
+## 📘 Windows Server Labs
 
 - WORK IN PROGRESS
 <br>
@@ -224,7 +224,7 @@ An IT professional with years of experience in System Administration including m
 - **Transcript Of Records**
 - **Certificates**
 - **Programming Projects PDF Format**
-- **Personal Labs PDF Format**
+- **Labs PDF Format**
 - **Freelance Portfolio PDF Format**
 <br>
 

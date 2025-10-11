@@ -142,7 +142,7 @@ An IT professional with years of experience in System Administration including m
       <td align="center">2021</td>
     </tr>
     <tr>
-      <td align="left"><b>Administering Server Hybrid Core Infrastructure (AZ-800)</b></td>
+      <td align="left"><b>Administering Windows Server Hybrid Core Infrastructure (AZ-800)</b></td>
       <td align="center">2022</td>
     </tr>
     <tr>
@@ -223,6 +223,7 @@ An IT professional with years of experience in System Administration including m
 - <b>Resumé</b>
 - <b>Transcript Of Records</b>
 - <b>Certificates</b>
+- <b>Programming Projects PDF Format</b>
 - <b>Personal Labs PDF Format</b>
 - <b>Freelance Portfolio PDF Format</b>
 <br>

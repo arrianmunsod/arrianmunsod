@@ -106,6 +106,7 @@ An IT professional with years of experience in System Administration including m
 - <b>Certifications</b>
 - <b>Trainings / Self-paced Learning</b>
 - <b>Certificate of Completion</b>
+<br>
 
 <h2 align="left">🧠 Certifications</h2>
 
@@ -214,8 +215,8 @@ An IT professional with years of experience in System Administration including m
 - <b>Programming Projects</b>
 
 ## 📫 Contact Me 
-- <b>Email: arrianmunsod879@gmail.com</b>
-- <b>LinkedIn: linkedin.com/in/arrianmunsod</b>
+- <b>arrianmunsod879@gmail.com</b>
+- <b>www.linkedin.com/in/arrianmunsod</b>
 <br>
 
 # 📊 GitHub Stats:

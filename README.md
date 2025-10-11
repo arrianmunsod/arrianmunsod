@@ -63,17 +63,17 @@ An IT professional with years of experience in System Administration including m
 
 ## 📄 Personal Labs
 
-- [WORK IN PROGRESS]()
+- WORK IN PROGRESS
 <br>
 
 ## 📑 Tutorials
 
-- [WORK IN PROGRESS]()
+- WORK IN PROGRESS
 <br>
 
 ## 👌 Freelance Portfolio
 
-- [WORK IN PROGRESS]()
+- WORK IN PROGRESS
 <br>
 
 ## 🧑‍💼 Work History  
@@ -223,8 +223,8 @@ An IT professional with years of experience in System Administration including m
 - <b>Resumé</b>
 - <b>Transcript Of Records</b>
 - <b>Certificates</b>
-- <b>Personal Labs</b>
-- <b>Freelance Portfolio</b>
+- <b>Personal Labs PDF Format</b>
+- <b>Freelance Portfolio PDF Format</b>
 <br>
 
 ## 📫 Contact Me 

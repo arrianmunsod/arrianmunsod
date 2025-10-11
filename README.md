@@ -193,6 +193,10 @@ An IT professional with years of experience in System Administration including m
 </div>
 * <br>
 
+## 📫 Download / view my employment documents
+### Download / view my employment documents (resumé, transcript of records, certificates/certifications, freelance portfolio, personal labs, personal programming projects) at: https:tinyurl.com/arriandocuments
+<br>
+
 ## 📫 Contact Me 
 #### Email: arrianmunsod879@gmail.com
 #### LinkedIn: www.linkedin.com/in/arrianmunsod

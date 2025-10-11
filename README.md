@@ -173,6 +173,22 @@ An IT professional with years of experience in System Administration including m
 </div>
 * <br>
 
+<h2 align="left">🧠 Other Self-paced Learning</h2>
+
+<div align="left">
+  <table>
+    <tr>
+      <th align="left">🧠 Title</th>
+      <th align="center">🗓️ Date</th>
+    </tr>
+    <tr>
+      <td align="left"><b>IBM DevOps and Software Engineering</b></td>
+      <td align="center">2025</td>
+    </tr>
+    </table>
+</div>
+* <br>
+
 ## 📫 Contact Me 
 #### Email: arrianmunsod879@gmail.com
 #### LinkedIn: www.linkedin.com/in/arrianmunsod

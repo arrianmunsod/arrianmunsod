@@ -71,7 +71,7 @@ An IT professional with years of experience in System Administration including m
 - WORK IN PROGRESS
 <br>
 
-## 👌 Freelance Portfolio
+## 💸👌 Freelance Portfolio
 
 - WORK IN PROGRESS
 <br>

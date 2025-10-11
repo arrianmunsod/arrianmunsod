@@ -185,6 +185,10 @@ An IT professional with years of experience in System Administration including m
       <td align="left"><b>IBM DevOps and Software Engineering</b></td>
       <td align="center">2025</td>
     </tr>
+    <tr>
+      <td align="left"><b>Skillsoft Aspire Journey - Windows Server 2022</b></td>
+      <td align="center">2025</td>
+    </tr>
     </table>
 </div>
 * <br>

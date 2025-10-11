@@ -28,7 +28,7 @@ An IT professional with years of experience in System Administration including m
 - You can select all users or some users or groups in Active Directory 
 - You can set permissions (ACL) to the File Share Folder after creation
 - Included: prerequisites to run the script
-
+<!--
 ### [Automating Deployment of Virtual Machines in Hyper-V](https://github.com/arrianmunsod/powershell-automating-creation-of-an-smb-file-share-to-users)
 - You can customize how many virtual machines you can provision
 - You can customize the specifications of virtual machines (Memory, number of CPUs)
@@ -38,6 +38,7 @@ An IT professional with years of experience in System Administration including m
 - Use the built-in Windows Server Backup Service to backup incrementally or do a full disk backup 
 - You can set where is the designated backup location (network share, external disk, cloud)
 - Included: script to delete backup after a set time period (example: 30 days, 90 days, 180 days)
+-->
 
 <!-- 
 <details>

@@ -3,7 +3,7 @@
 **`System Administrator / IT Technician`**
 
 An IT professional with years of experience in System Administration including managing IT infrastructure.<br><br>I have had the opportunity to function in different corporate environments full time. I also work part-time as an IT Technician / Consultant to personal clients and small-to-medium business offices. <br>
-  
+*
 
 ## 💻 Tech Stack / Skills:
 
@@ -112,13 +112,13 @@ An IT professional with years of experience in System Administration including m
 </div><br>
 
 ## 🔍 Verify My Credentials
-<b>Verify my complete list of credentials at:</b> <br>
-<b>www.credly.com/users/arrianmunsod</b><br>
-<b>www.credential.net/profile/arrianmunsod</b>
-- <b>American Council on Education (ACE) College Credits</b>
-- <b>Certifications</b>
-- <b>Trainings / Self-paced Learning</b>
-- <b>Certificate of Completion</b>
+**Verify my complete list of credentials at:** <br>
+**www.credly.com/users/arrianmunsod**<br>
+**www.credential.net/profile/arrianmunsod**
+- **American Council on Education (ACE) College Credits**
+- **Certifications**
+- **Trainings / Self-paced Learning**
+- **Certificate of Completion**
 <br>
 
 <h2 align="left">🧠 Certifications</h2>
@@ -218,19 +218,19 @@ An IT professional with years of experience in System Administration including m
 * <br>
 
 ## 📫 Download / view my employment documents
-<b>Download / view my employment documents at:</b><br> 
-<b>https://tinyurl.com/arriandocuments</b>
-- <b>Resumé</b>
-- <b>Transcript Of Records</b>
-- <b>Certificates</b>
-- <b>Programming Projects PDF Format</b>
-- <b>Personal Labs PDF Format</b>
-- <b>Freelance Portfolio PDF Format</b>
+**Download / view my employment documents at:** <br> 
+**https://tinyurl.com/arriandocuments**
+- **Resumé**
+- **Transcript Of Records**
+- **Certificates**
+- **Programming Projects PDF Format**
+- **Personal Labs PDF Format**
+- **Freelance Portfolio PDF Format**
 <br>
 
 ## 📫 Contact Me 
-- <b>arrianmunsod879@gmail.com</b>
-- <b>www.linkedin.com/in/arrianmunsod</b>
+- **arrianmunsod879@gmail.com**
+- **www.linkedin.com/in/arrianmunsod**
 <br>
 
 # 📊 GitHub Stats:

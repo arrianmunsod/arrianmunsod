@@ -22,7 +22,7 @@ An IT professional with years of experience in System Administration including m
 
 ## 📂 PowerShell Projects
 
-### [Automating Creation of an SMB File Share to All Users in an Active Directory Environment](https://github.com/arrianmunsod/powershell-automating-creation-of-an-smb-file-share-to-users)
+#### [Automating Creation of an SMB File Share to All Users in an Active Directory Environment](https://github.com/arrianmunsod/powershell-automating-creation-of-an-smb-file-share-to-users)
 - You can select all users or some users or groups in Active Directory 
 - You can set permissions (ACL) to the File Share Folder after creation
 - Included: prerequisites to run the script

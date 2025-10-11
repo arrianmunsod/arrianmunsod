@@ -106,7 +106,7 @@ An IT professional with years of experience in System Administration including m
 
 | 🎓 Degree | 🏫 Institution | 📅 Year |
 |:--|:--|:--|
-| **College Credits Earned: 154 Semester Hours focused on System Administration, Cloud Computing, Networking** | American Council on Education | 2021 – 2025 |
+| **College Credits Earned: 154 Semester Hours focused on System Administration, Cloud Computing, Networking** | American Council on Education (ACE) | 2021 – 2025 |
 | **Bachelor of Science in Information Technology** | University of the East | * |
 
 </div><br>
@@ -115,7 +115,7 @@ An IT professional with years of experience in System Administration including m
 <b>Verify my complete list of credentials at:</b> <br>
 <b>www.credly.com/users/arrianmunsod</b><br>
 <b>www.credential.net/profile/arrianmunsod</b>
-- <b>American Council on Education College Credits</b>
+- <b>American Council on Education (ACE) College Credits</b>
 - <b>Certifications</b>
 - <b>Trainings / Self-paced Learning</b>
 - <b>Certificate of Completion</b>

@@ -102,10 +102,10 @@ An IT professional with years of experience in System Administration including m
 <b>Verify my complete list of credentials at:</b> <br>
 <b>www.credly.com/users/arrianmunsod</b><br>
 <b>www.credential.net/profile/arrianmunsod</b>
-- American Council on Education College Credits
-- Certifications
-- Trainings / Self-paced Learning
-- Certificate of Completion
+- <b>American Council on Education College Credits</b>
+- <b>Certifications</b>
+- <b>Trainings / Self-paced Learning</b>
+- <b>Certificate of Completion</b>
 
 <h2 align="left">🧠 Certifications</h2>
 
@@ -204,18 +204,18 @@ An IT professional with years of experience in System Administration including m
 * <br>
 
 ## 📫 Download / view my employment documents
-Download / view my employment documents at: 
-https://tinyurl.com/arriandocuments
-- Resumé
-- Transcript Of Records
-- Certificates
-- Personal Labs
-- Freelance Portfolio
-- Programming Projects
+<b>Download / view my employment documents at:</b><br> 
+<b>https://tinyurl.com/arriandocuments</b>
+- <b>Resumé</b>
+- <b>Transcript Of Records</b>
+- <b>Certificates</b>
+- <b>Personal Labs</b>
+- <b>Freelance Portfolio</b>
+- <b>Programming Projects</b>
 
 ## 📫 Contact Me 
-- Email: arrianmunsod879@gmail.com
-- LinkedIn: www.linkedin.com/in/arrianmunsod
+- <b>Email: arrianmunsod879@gmail.com</b>
+- <b>LinkedIn: linkedin.com/in/arrianmunsod</b>
 <br>
 
 # 📊 GitHub Stats:

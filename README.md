@@ -88,7 +88,7 @@ An IT professional with years of experience in System Administration including m
 - Replaced / upgraded company’s existing SOHO network infrastructure to a scalable enterprise network, from (copper DSL, dynamic public IP address, SOHO routers, unmanaged switches) to (FortiGate firewall, Cisco routers and switches, DHCP and DNS running on Windows Server, fiber internet, static public IP address).
 - Replaced company’s existing file sharing solution through external drives and emails with centralized dedicated file servers accessible through the internet via VPN.
 - Upgraded workstations with SSD and additional RAMs, migrated OS from Windows 7 to 10, joined workstations to domain.
-- Wrote PowerShell scripts to automate repetitive IT tasks such as generating reports ang logs, Office 365, user management.
+- Wrote PowerShell scripts to automate repetitive IT tasks such as generating reports ang logs, Office 365 and user management.
 - Managed Azure Active Directory (Entra ID), Office 365 applications, licenses, and permissions.
 - Setup and managed analog PABX, CCTV, and fingerprint biometrics.
 

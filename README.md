@@ -26,8 +26,18 @@ An IT professional with years of experience in System Administration including m
 
 ### [Automating Creation of an SMB File Share to All Users in an Active Directory Environment](https://github.com/arrianmunsod/powershell-automating-creation-of-an-smb-file-share-to-users)
 - You can select all users or some users or groups in Active Directory 
-- Set Quota to newly created SMB file share folder (Storage Limit, example: 10 GB per user)
-- Limit file types you can save on the file share folder (example: docx, pdf, jpg, xlsx)
+- You can set permissions (ACL) to the File Share Folder after creation
+- Included: prerequisites to run the script
+
+### [Automating Deployment of Virtual Machines in Hyper-V](https://github.com/arrianmunsod/powershell-automating-creation-of-an-smb-file-share-to-users)
+- You can customize how many virtual machines you can provision
+- You can customize the specifications of virtual machines (Memory, number of CPUs)
+- You can customize where the storage of the virtual machines are located (local, network share, fibre channel SAN)
+
+### [Automating Windows Server Backup](https://github.com/arrianmunsod/powershell-automating-creation-of-an-smb-file-share-to-users)
+- Use the built-in Windows Server Backup Service to backup incrementally or do a full disk backup 
+- You can set where is the designated backup location (network share, external disk, cloud)
+- Included: script to delete backup after a set time period (example: 30 days, 90 days, 180 days)
 
 <!-- 
 <details>

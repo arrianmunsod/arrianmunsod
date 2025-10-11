@@ -61,17 +61,17 @@ An IT professional with years of experience in System Administration including m
 -->
 <br>
 
-## 🌐 Personal Labs
+## 🎆 Personal Labs
 
 - [WORK IN PROGRESS]()
 <br>
 
-## 🌐 Tutorials
+## 📑 Tutorials
 
 - [WORK IN PROGRESS]()
 <br>
 
-## 🌐 Freelance Portfolio
+## 👌 Freelance Portfolio
 
 - [WORK IN PROGRESS]()
 <br>

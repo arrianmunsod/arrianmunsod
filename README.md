@@ -61,7 +61,7 @@ An IT professional with years of experience in System Administration including m
 -->
 <br>
 
-## 🎆 Personal Labs
+## 📄 Personal Labs
 
 - [WORK IN PROGRESS]()
 <br>
@@ -225,7 +225,6 @@ An IT professional with years of experience in System Administration including m
 - <b>Certificates</b>
 - <b>Personal Labs</b>
 - <b>Freelance Portfolio</b>
-- <b>Programming Projects</b>
 <br>
 
 ## 📫 Contact Me 

@@ -22,10 +22,10 @@ An IT professional with years of experience in System Administration including m
 
 ## 📂 PowerShell Projects
 
-#### [Automating Creation of an SMB File Share to All Users in an Active Directory Environment](https://github.com/arrianmunsod/powershell-automating-creation-of-an-smb-file-share-to-users)
-- You can select all users or some users or groups in Active Directory 
-- You can set permissions (ACL) to the File Share Folder after creation
-- Included: prerequisites to run the script
+- #### [Automating Creation of an SMB File Share to All Users in an Active Directory Environment](https://github.com/arrianmunsod/powershell-automating-creation-of-an-smb-file-share-to-users)
+  - Select all users or specific users/groups in Active Directory
+  - Set permissions (ACL) to the File Share Folder after creation
+  - View prerequisites to run the script
 <!--
 ### [Automating Deployment of Virtual Machines in Hyper-V](https://github.com/arrianmunsod/powershell-automating-creation-of-an-smb-file-share-to-users)
 - You can customize how many virtual machines you can provision

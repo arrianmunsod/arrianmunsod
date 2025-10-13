@@ -78,7 +78,7 @@ An IT professional with years of experience in System Administration including m
 
 ## 🎵 Miscellaneous
 
-- #### [WORK IN PROGRESS]()
+- #### WORK IN PROGRESS
 <br>
 
 ## 🧑‍💼 Work History  

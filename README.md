@@ -99,7 +99,7 @@ An IT professional with years of experience in System Administration including m
 - *Printing Businesses (tshirt, anything print-related)*
 - *Internet Cafes*
 - *Local Judiciary Courthouse (Justic Hall)*
-
+- *Small-scale food businesses*
 
 **IT Administrator**  
 *Retailer Company* · *Jun 2018 – Sep 2019 (more than 1 year)*  

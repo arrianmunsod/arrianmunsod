@@ -89,6 +89,7 @@ An IT professional with years of experience in System Administration including m
 - *Clients:*
 - *Work From Home (WFH) Employees*
 - *College Students*
+- *Personal Clients (relatives, friends, neighbors, referred clients)*
 - *Insurance Company for vehicles, houses, businesses*
 - *Transportation Operation Regulatory Office*
 - *Local Barangay Office*
@@ -98,6 +99,7 @@ An IT professional with years of experience in System Administration including m
 - *Printing Businesses (tshirt, anything print-related)*
 - *Internet Cafes*
 - *Local Judiciary Courthouse (Justic Hall)*
+
 
 **IT Administrator**  
 *Retailer Company* · *Jun 2018 – Sep 2019 (more than 1 year)*  

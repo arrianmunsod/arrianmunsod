@@ -87,9 +87,12 @@ An IT professional with years of experience in System Administration including m
 *WA* · *2020 – Present*  
 - Act as an external IT support to personal clients and small-to-medium businesses / offices. 
 - *Clients:*
-- Insurance Company
-- Transportation Operation Regulatory Office
-- Local Barangay Office
+- *Insurance Company*
+- *Transportation Operation Regulatory Office*
+- *Local Barangay Office*
+- *Teachers and Faculty Members at a Local Elementary / Grade School*
+- *Engineering Firm specializing in planning and constructing public road infrastructure*
+- *Construction company specializing in building private houses*
 
 **IT Administrator**  
 *Retailer Company* · *Jun 2018 – Sep 2019 (more than 1 year)*  

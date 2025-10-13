@@ -95,8 +95,9 @@ An IT professional with years of experience in System Administration including m
 - *Teachers and Faculty Members at a Local Elementary / Grade School*
 - *Engineering Firm specializing in planning and constructing public road infrastructure*
 - *Construction company specializing in building private houses*
-- *Printing Business*
+- *Printing Business (tshirt, anything print-related)*
 - *Internet Cafes*
+- *Local Judiciary Courthouse (Justic Hall)*
 
 **IT Administrator**  
 *Retailer Company* · *Jun 2018 – Sep 2019 (more than 1 year)*  

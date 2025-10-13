@@ -86,6 +86,10 @@ An IT professional with years of experience in System Administration including m
 **Freelance IT Technician**  
 *WA* · *2020 – Present*  
 - Act as an external IT support to personal clients and small-to-medium businesses / offices. 
+- *Clients:*
+- Insurance Company
+- Transportation Operation Regulatory Office
+- Local Barangay Office
 
 **IT Administrator**  
 *Retailer Company* · *Jun 2018 – Sep 2019 (more than 1 year)*  
@@ -112,7 +116,6 @@ An IT professional with years of experience in System Administration including m
 | 🎓 Degree | 🏫 Institution | 📅 Year |
 |:--|:--|:--|
 | **College Credits Earned: 154 Semester Hours focused on System Administration, Cloud Computing, Networking in lower and upper baccalaureate** | American Council on Education (ACE) | 2021 – 2025 |
-| **Bachelor of Science in Information Technology** | University of the East | * |
 
 </div><br>
 

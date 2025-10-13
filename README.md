@@ -94,8 +94,8 @@ An IT professional with years of experience in System Administration including m
 - *Local Barangay Office*
 - *Teachers and Faculty Members at a Local Elementary / Grade School*
 - *Engineering Firm specializing in planning and constructing public road infrastructure*
-- *Construction company specializing in building private houses*
-- *Printing Business (tshirt, anything print-related)*
+- *Construction Company specializing in building private houses*
+- *Printing Businesses (tshirt, anything print-related)*
 - *Internet Cafes*
 - *Local Judiciary Courthouse (Justic Hall)*
 

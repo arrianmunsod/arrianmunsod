@@ -161,6 +161,10 @@ An IT professional with years of experience in System Administration including m
       <td align="left"><b>CompTIA ITF+ Certified (FC0-U61)</b></td>
       <td align="center">2021</td>
     </tr>
+      <tr>
+      <td align="left"><b>Administering Windows Server Hybrid Core Infrastructure (AZ-800)</b></td>
+      <td align="center">2022</td>
+    </tr>
     <tr>
       <td align="left"><b>Microsoft Technology Associate - Windows Server Administration (MTA 98-365)</b></td>
       <td align="center">2021</td>
@@ -172,10 +176,6 @@ An IT professional with years of experience in System Administration including m
     <tr>
       <td align="left"><b>Microsoft Technology Associate - Security (MTA 98-367)</b></td>
       <td align="center">2021</td>
-    </tr>
-    <tr>
-      <td align="left"><b>Administering Windows Server Hybrid Core Infrastructure (AZ-800)</b></td>
-      <td align="center">2022</td>
     </tr>
     <tr>
       <td align="left"><b>Microsoft 365 Certified - Fundamentals (MS-900)</b></td>

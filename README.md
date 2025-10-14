@@ -76,9 +76,14 @@ An IT professional with years of experience in System Administration including m
 - #### [Blue Screen Of Death: PAGE_FAULT_IN_NON_PAGE_AREA](https://gist.github.com/arrianmunsod/1aa0be02213bb881e885b7be8b7d5652)
 <br>
 
-## 🎵 Miscellaneous
+## 🐾 Miscellaneous
 
 - #### [HG8145V5 Default Username and Password](https://gist.github.com/arrianmunsod/b23246c0cfdb38e9ab34ad4df96859b9)
+<br>
+
+## 🙈  Installer
+
+- #### [Microsoft Office 2024](#)
 <br>
 
 ## 🧑‍💼 Work History  

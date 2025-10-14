@@ -86,7 +86,7 @@ An IT professional with years of experience in System Administration including m
 ## 🧑‍💼 Work History  
 
 **Freelance IT Technician**  
-*WA* · *2020 – Present*  
+*2020 – Present*  
 - Act as an external IT support to personal clients and small-to-medium businesses / offices. 
 - *Clients:*
 - *Work From Home (WFH) Employees*
@@ -114,7 +114,7 @@ An IT professional with years of experience in System Administration including m
 - Setup and managed analog PABX, CCTV, and fingerprint biometrics.
 
 **Junior System Administrator**  
-*Korean BPO Company* · *Aug 2012 – Dec 2016 (more than 4 years)*  
+*BPO Company* · *Aug 2012 – Dec 2016 (more than 4 years)*  
 - Configured and managed VMWare vSphere, Windows Server 2008 - 2012, Active Directory, Group Policies (GPO), folder permissions.
 - Setup structured cabling, VLAN, port security, trunking, STP configuration on Cisco devices; DHCP and DNS running on Windows Server.
 - Helped senior administrators in monitoring and troubleshooting the company’s network and servers’ performance. 

@@ -74,6 +74,7 @@ An IT professional with years of experience in System Administration including m
 ## 😎 Freelance Portfolio
 
 - #### [Blue Screen Of Death: PAGE_FAULT_IN_NON_PAGE_AREA](https://gist.github.com/arrianmunsod/1aa0be02213bb881e885b7be8b7d5652)
+- #### [BIOS Password HP SpareKey Recovery](https://gist.github.com/arrianmunsod/b8f7eb04d319b5058c0354be9a2468c2)
 <br>
 
 ## 🐾 Miscellaneous

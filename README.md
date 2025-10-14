@@ -78,7 +78,7 @@ An IT professional with years of experience in System Administration including m
 
 ## 🎵 Miscellaneous
 
-- #### WORK IN PROGRESS
+- #### [HG8145V5 Default Username and Password](https://gist.github.com/arrianmunsod/b23246c0cfdb38e9ab34ad4df96859b9)
 <br>
 
 ## 🧑‍💼 Work History  

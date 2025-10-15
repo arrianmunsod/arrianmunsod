@@ -149,11 +149,11 @@ An IT professional with years of experience in System Administration including m
       <th align="left">🧠 Title</th>
       <th align="center">🗓️ Date</th>
       <tr>
-      <td align="left"><b>Pearson IT Specialist - Networking (INF-101)</b></td>
+      <td align="left"><b><a href="https://www.credly.com/badges/6b3924e3-3e91-49cf-8506-449bf9ac0969 target="_blank">Pearson IT Specialist - Networking (INF-101)</a></b></td>
       <td align="center">2023</td>
     </tr>
       <tr>
-      <td align="left"><b>VMWare Certified Technical Associate - Data Center Virtualization (VCTA-DCV)</b></td>
+      <td align="left"><b><a href="https://www.credly.com/badges/68a7dc72-32e0-411b-843c-181abcd37af2" target="_blank">VMWare Certified Technical Associate - Data Center Virtualization (VCTA-DCV)</a></b></td>
       <td align="center">2021</td>
     </tr>
     </tr>

@@ -101,6 +101,7 @@ An IT professional with years of experience in System Administration including m
 - **[Bad System Config Info](https://gist.github.com/arrianmunsod/d0fd92df758510506d59e1998c161e7f)**
 - **[Insert Boot Media](https://gist.github.com/arrianmunsod/21521accc3df55344fc3509e0134f291)**
 - **[Detecting A Failing Component](https://gist.github.com/arrianmunsod/e8a0738347a4d599333ce7d1708b8c68)**
+- **[Windows Failed To Start](https://gist.github.com/arrianmunsod/23ff54c218af368d58ddf9e55b75bee2)**
 <br>
 
 ## 🐾 Miscellaneous

@@ -74,24 +74,24 @@ An IT professional with years of experience in System Administration including m
 
 ## 📘 Windows Server Labs
 
-- **[Auditing Folders And Files](https://gist.github.com/arrianmunsod/0fa0d96282a861c0695ec4d5603b80b4)**
-- **[Creating an SMB Share](https://gist.github.com/arrianmunsod/190cb1ee6ed70388a28fb13c9a94ea08)**
+- #### [Auditing Folders And Files](https://gist.github.com/arrianmunsod/0fa0d96282a861c0695ec4d5603b80b4)
+- #### [Creating an SMB Share](https://gist.github.com/arrianmunsod/190cb1ee6ed70388a28fb13c9a94ea08)
 <br>
 
 ## 📑 Tutorials
 
-- **[Reveal WiFi Passwords saved on your Windows 10/11 machine](https://gist.github.com/arrianmunsod/22b966ad1b4dfe38c8e27942f70702d9)**
+- #### [Reveal WiFi Passwords saved on your Windows 10/11 machine](https://gist.github.com/arrianmunsod/22b966ad1b4dfe38c8e27942f70702d9)
 <br>
 
 ## 😎 Freelance Portfolio
 
-- **[Blue Screen Of Death: PAGE_FAULT_IN_NON_PAGE_AREA](https://gist.github.com/arrianmunsod/1aa0be02213bb881e885b7be8b7d5652)**
-- **[BIOS Password HP SpareKey Recovery](https://gist.github.com/arrianmunsod/b8f7eb04d319b5058c0354be9a2468c2)**
-- **[Hard Disk Failure](https://gist.github.com/arrianmunsod/7296783d67095ba9057ab88e6835c672)**
-- **[CPU Debug Led Is On](https://gist.github.com/arrianmunsod/aeaeae6f5f513722d59598ad7805c9ee)**
-- **[Please Make Sure The Computer Case Is Properly Close](https://gist.github.com/arrianmunsod/4958f0ce5d89af5cb94af7d9c501dce8)**
-- **[When RAID configuration was built ensure to set SATA Configuration to RAID mode](https://gist.github.com/arrianmunsod/9bccf2f4daef164859236225f3dbcb05)**
-- **[Cant Enable Secure Boot](https://gist.github.com/arrianmunsod/688fc815b6d95478716e9ae12f8ea981)**
+- #### [Blue Screen Of Death: PAGE_FAULT_IN_NON_PAGE_AREA](https://gist.github.com/arrianmunsod/1aa0be02213bb881e885b7be8b7d5652)
+- #### [BIOS Password HP SpareKey Recovery](https://gist.github.com/arrianmunsod/b8f7eb04d319b5058c0354be9a2468c2)
+- #### [Hard Disk Failure](https://gist.github.com/arrianmunsod/7296783d67095ba9057ab88e6835c672)
+- #### [CPU Debug Led Is On](https://gist.github.com/arrianmunsod/aeaeae6f5f513722d59598ad7805c9ee)
+- #### [Please Make Sure The Computer Case Is Properly Close](https://gist.github.com/arrianmunsod/4958f0ce5d89af5cb94af7d9c501dce8)
+- #### [When RAID configuration was built ensure to set SATA Configuration to RAID mode](https://gist.github.com/arrianmunsod/9bccf2f4daef164859236225f3dbcb05)
+- #### [Cant Enable Secure Boot](https://gist.github.com/arrianmunsod/688fc815b6d95478716e9ae12f8ea981)
 <br>
 
 ## 🐾 Miscellaneous

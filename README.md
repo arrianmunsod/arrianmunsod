@@ -149,20 +149,20 @@ An IT professional with years of experience in System Administration including m
       <th align="left">🧠 Title</th>
       <th align="center">🗓️ Date</th>
       <tr>
-      <td align="left"><b><a href="https://www.credly.com/badges/6b3924e3-3e91-49cf-8506-449bf9ac0969" target="_blank" style="text-decoration: none;">Pearson IT Specialist - Networking (INF-101)</a></b></td>
+      <td align="left"><b>Pearson IT Specialist - Networking (INF-101)</b></td>
       <td align="center">2023</td>
     </tr>
       <tr>
-      <td align="left"><b><a href="https://www.credly.com/badges/68a7dc72-32e0-411b-843c-181abcd37af2" target="_blank" style="text-decoration: none;">VMWare Certified Technical Associate - Data Center Virtualization (VCTA-DCV)</a></b></td>
+      <td align="left"><b>VMWare Certified Technical Associate - Data Center Virtualization (VCTA-DCV)</b></td>
       <td align="center">2021</td>
     </tr>
     </tr>
       <tr>
-      <td align="left"><b><a href="https://www.credly.com/badges/d9973211-42dd-461a-a8ae-361ece035d52" target="_blank" style="text-decoration: none;">CompTIA ITF+ Certified (FC0-U61)</a></b></td>
+      <td align="left"><b>CompTIA ITF+ Certified (FC0-U61)</b></td>
       <td align="center">2021</td>
     </tr>
       <tr>
-      <td align="left"><b><a href="https://www.credly.com/badges/0872f2ca-aeb8-4a63-ba22-d3f8896ea05b" target="_blank" style="text-decoration: none;">Administering Windows Server Hybrid Core Infrastructure (AZ-800)</a></b></td>
+      <td align="left"><b>Administering Windows Server Hybrid Core Infrastructure (AZ-800)</b></td>
       <td align="center">2022</td>
     </tr>
     <tr>

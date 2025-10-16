@@ -107,6 +107,7 @@ An IT professional with years of experience in System Administration including m
 - **[Reconstructing Cache Metadata](https://gist.github.com/arrianmunsod/17fc7f2f3647651b6f65465894534276)**
 - **[Redistributable Package Error](https://gist.github.com/arrianmunsod/4f32bba7cfb1dec12d1d154d391e5d8b)**
 - **[Computer Wont Boot on Secure Boot](https://gist.github.com/arrianmunsod/4ba3ea88427fe373f7e6a75d460c1800)**
+- **[No Boot Device Selected](https://gist.github.com/arrianmunsod/31abd5aa7c9a9d47eb196492fba38484)**
 <br>
 
 ## 🐾 Miscellaneous

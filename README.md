@@ -104,6 +104,7 @@ An IT professional with years of experience in System Administration including m
 - **[Windows Failed To Start](https://gist.github.com/arrianmunsod/23ff54c218af368d58ddf9e55b75bee2)**
 - **[Missing USB Driver](https://gist.github.com/arrianmunsod/a9bd6d228bb6f3031f2d2f8d33956af3)**
 - **[No DHCP Server Was Found](https://gist.github.com/arrianmunsod/3f06e5c82f66b0e5e76a96c17d27e4ea)**
+- **[Reconstructing Cache Metadata](https://gist.github.com/arrianmunsod/17fc7f2f3647651b6f65465894534276)**
 <br>
 
 ## 🐾 Miscellaneous

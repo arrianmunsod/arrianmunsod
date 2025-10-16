@@ -93,6 +93,7 @@ An IT professional with years of experience in System Administration including m
 - **[When RAID configuration was built ensure to set SATA Configuration to RAID mode](https://gist.github.com/arrianmunsod/9bccf2f4daef164859236225f3dbcb05)**
 - **[Cant Enable Secure Boot](https://gist.github.com/arrianmunsod/688fc815b6d95478716e9ae12f8ea981)**
 - **[TP-Link Double NAT Issue](https://gist.github.com/arrianmunsod/d14e73aee4deab19f3a04d91285b4f04)**
+- **[USB Drive Windows UEFI Mode Only](https://gist.github.com/arrianmunsod/3a04dbf949ec5c9eb2a5a1fa6ddd5d57)**
 <br>
 
 ## 🐾 Miscellaneous

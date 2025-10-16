@@ -162,7 +162,7 @@ An IT professional with years of experience in System Administration including m
       <td align="center">2021</td>
     </tr>
       <tr>
-      <td align="left"><b>Administering Windows Server Hybrid Core Infrastructure (AZ-800)</b></td>
+      <td align="left"><b><a href="https://www.credly.com/badges/0872f2ca-aeb8-4a63-ba22-d3f8896ea05b" target="_blank">Administering Windows Server Hybrid Core Infrastructure (AZ-800)</a></b></td>
       <td align="center">2022</td>
     </tr>
     <tr>

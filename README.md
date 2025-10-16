@@ -92,6 +92,7 @@ An IT professional with years of experience in System Administration including m
 - **[Please Make Sure The Computer Case Is Properly Close](https://gist.github.com/arrianmunsod/4958f0ce5d89af5cb94af7d9c501dce8)**
 - **[When RAID configuration was built ensure to set SATA Configuration to RAID mode](https://gist.github.com/arrianmunsod/9bccf2f4daef164859236225f3dbcb05)**
 - **[Cant Enable Secure Boot](https://gist.github.com/arrianmunsod/688fc815b6d95478716e9ae12f8ea981)**
+- **[TP-Link Double NAT Issue](https://gist.github.com/arrianmunsod/d14e73aee4deab19f3a04d91285b4f04)**
 <br>
 
 ## 🐾 Miscellaneous

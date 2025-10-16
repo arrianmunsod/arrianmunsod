@@ -102,6 +102,7 @@ An IT professional with years of experience in System Administration including m
 - **[Insert Boot Media](https://gist.github.com/arrianmunsod/21521accc3df55344fc3509e0134f291)**
 - **[Detecting A Failing Component](https://gist.github.com/arrianmunsod/e8a0738347a4d599333ce7d1708b8c68)**
 - **[Windows Failed To Start](https://gist.github.com/arrianmunsod/23ff54c218af368d58ddf9e55b75bee2)**
+- **[Missing USB Driver](https://gist.github.com/arrianmunsod/a9bd6d228bb6f3031f2d2f8d33956af3)**
 <br>
 
 ## 🐾 Miscellaneous

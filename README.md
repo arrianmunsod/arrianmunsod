@@ -99,6 +99,7 @@ An IT professional with years of experience in System Administration including m
 - **[Keyboard Key Automatically Presses Itself](https://gist.github.com/arrianmunsod/d119ac66b63d9bf6b886774e0480c162)**
 - **[Clock Watchdog Timeout](https://gist.github.com/arrianmunsod/0622ccd63501cb912271d3a0532b40fe)**
 - **[Bad System Config Info](https://gist.github.com/arrianmunsod/d0fd92df758510506d59e1998c161e7f)**
+- **[Insert Boot Media](https://gist.github.com/arrianmunsod/21521accc3df55344fc3509e0134f291)**
 <br>
 
 ## 🐾 Miscellaneous

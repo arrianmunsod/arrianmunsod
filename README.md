@@ -97,7 +97,7 @@ An IT professional with years of experience in System Administration including m
 
 ## 📘 Windows Server Labs
 
-- WORK IN PROGRESS
+- **[Auditing Folders And Files](https://gist.github.com/arrianmunsod/0fa0d96282a861c0695ec4d5603b80b4)**
 <br>
 
 ## 📑 Tutorials

@@ -149,7 +149,7 @@ An IT professional with years of experience in System Administration including m
       <th align="left">🧠 Title</th>
       <th align="center">🗓️ Date</th>
       <tr>
-      <td align="left"><b><a href="https://www.credly.com/badges/6b3924e3-3e91-49cf-8506-449bf9ac0969" target="_blank">Pearson IT Specialist - Networking (INF-101) 3 ACE College Credits</a></b></td>
+      <td align="left"><b><a href="https://www.credly.com/badges/6b3924e3-3e91-49cf-8506-449bf9ac0969" target="_blank">Pearson IT Specialist - Networking (INF-101)</a></b></td>
       <td align="center">2023</td>
     </tr>
       <tr>
@@ -158,7 +158,7 @@ An IT professional with years of experience in System Administration including m
     </tr>
     </tr>
       <tr>
-      <td align="left"><b>CompTIA ITF+ Certified (FC0-U61)</b></td>
+      <td align="left"><b><a href="https://www.credly.com/badges/d9973211-42dd-461a-a8ae-361ece035d52" target="_blank">CompTIA ITF+ Certified (FC0-U61)</a></b></td>
       <td align="center">2021</td>
     </tr>
       <tr>

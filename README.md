@@ -94,6 +94,7 @@ An IT professional with years of experience in System Administration including m
 - **[Cant Enable Secure Boot](https://gist.github.com/arrianmunsod/688fc815b6d95478716e9ae12f8ea981)**
 - **[TP-Link Double NAT Issue](https://gist.github.com/arrianmunsod/d14e73aee4deab19f3a04d91285b4f04)**
 - **[USB Drive Windows UEFI Mode Only](https://gist.github.com/arrianmunsod/3a04dbf949ec5c9eb2a5a1fa6ddd5d57)**
+- **[TP-Link RE215 Repeater Setup](https://gist.github.com/arrianmunsod/a166e0f81574b803689774d181faffa3)**
 <br>
 
 ## 🐾 Miscellaneous

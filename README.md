@@ -102,19 +102,19 @@ An IT professional with years of experience in System Administration including m
 
 ## 📑 Tutorials
 
-- [Reveal WiFi Passwords saved on your Windows 10/11 machine](https://gist.github.com/arrianmunsod/22b966ad1b4dfe38c8e27942f70702d9)
+- **[Reveal WiFi Passwords saved on your Windows 10/11 machine](https://gist.github.com/arrianmunsod/22b966ad1b4dfe38c8e27942f70702d9)**
 <br>
 
 ## 😎 Freelance Portfolio
 
-- [Blue Screen Of Death: PAGE_FAULT_IN_NON_PAGE_AREA](https://gist.github.com/arrianmunsod/1aa0be02213bb881e885b7be8b7d5652)
-- [BIOS Password HP SpareKey Recovery](https://gist.github.com/arrianmunsod/b8f7eb04d319b5058c0354be9a2468c2)
-- [Hard Disk Failure](https://gist.github.com/arrianmunsod/7296783d67095ba9057ab88e6835c672)
+- **[Blue Screen Of Death: PAGE_FAULT_IN_NON_PAGE_AREA](https://gist.github.com/arrianmunsod/1aa0be02213bb881e885b7be8b7d5652)**
+- **[BIOS Password HP SpareKey Recovery](https://gist.github.com/arrianmunsod/b8f7eb04d319b5058c0354be9a2468c2)**
+- **[Hard Disk Failure](https://gist.github.com/arrianmunsod/7296783d67095ba9057ab88e6835c672)**
 <br>
 
 ## 🐾 Miscellaneous
 
-- [HG8145V5 Default Username and Password](https://gist.github.com/arrianmunsod/b23246c0cfdb38e9ab34ad4df96859b9)
+- **[HG8145V5 Default Username and Password](https://gist.github.com/arrianmunsod/b23246c0cfdb38e9ab34ad4df96859b9)**
 <br>
 
 ## 🧑‍💼 Work History  

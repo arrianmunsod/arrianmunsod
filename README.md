@@ -97,6 +97,7 @@ An IT professional with years of experience in System Administration including m
 - **[TP-Link RE215 Repeater Setup](https://gist.github.com/arrianmunsod/a166e0f81574b803689774d181faffa3)**
 - **[Garbage Display](https://gist.github.com/arrianmunsod/773c82c38b3a1b27262e9be011a28df5)**
 - **[Keyboard Key Automatically Presses Itself](https://gist.github.com/arrianmunsod/d119ac66b63d9bf6b886774e0480c162)**
+- **[Clock Watchdog Timeout](https://gist.github.com/arrianmunsod/0622ccd63501cb912271d3a0532b40fe)**
 <br>
 
 ## 🐾 Miscellaneous

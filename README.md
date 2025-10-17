@@ -173,7 +173,7 @@ An IT professional with years of experience in System Administration including m
 - **Certificate of Completion**
 <br>
 
-<h2 align="left">🧠 Certifications</h2>
+<h2 align="left">🧠 Certifications (certification exam passed)</h2>
 
 <div align="left">
   <table>

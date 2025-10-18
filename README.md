@@ -251,7 +251,7 @@ An IT professional with years of experience in System Administration including m
     </tr>
       <tr>
       <td align="left"><b>Cisco Certified Network Associate (CCNA 200-301)</b></td>
-      <td align="center">2024</td>
+      <td align="center">2021</td>
     </tr>
   </table>
 </div>

@@ -148,7 +148,7 @@ An IT professional with years of experience in System Administration including m
 **Junior System Administrator**  
 *BPO Company* · *Aug 2012 – Dec 2016 (more than 4 years)*  
 - Configured and managed VMWare vSphere, Windows Server 2008 - 2012, Active Directory, Group Policies (GPO), folder permissions.
-- Setup structured cabling, VLAN, port security, trunking, STP configuration on Cisco devices; DHCP and DNS running on Windows Server.
+- Implemented structured cabling, configured Windows Server DHCP/DNS, managed data backups, and monitored network health.
 - Helped senior administrators in monitoring and troubleshooting the company’s network and servers’ performance. 
 
 <br>

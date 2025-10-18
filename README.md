@@ -249,10 +249,6 @@ An IT professional with years of experience in System Administration including m
       <td align="left"><b>CompTIA Server+ (SK0-005)</b></td>
       <td align="center">2024</td>
     </tr>
-      <tr>
-      <td align="left"><b>Cisco Certified Network Associate (CCNA 200-301)</b></td>
-      <td align="center">2021</td>
-    </tr>
   </table>
 </div>
 * <br>

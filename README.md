@@ -287,8 +287,12 @@ An IT professional with years of experience in System Administration including m
 - **www.linkedin.com/in/arrianmunsod**
 <br>
 
-## 📫 eBooks 
-- **[Windows Server](https://drive.google.com/drive/folders/1wBQyq4eWN0glUdT8D5I9EWfjiOO42RGb?usp=sharing)**
+## 📚 eBooks 
+- **[eBooks Collection](https://drive.google.com/drive/folders/1wBQyq4eWN0glUdT8D5I9EWfjiOO42RGb?usp=sharing)**
+<br>
+
+## 💿 Installer
+- **[Google Drive Installer](https://drive.google.com/drive/folders/1wBQyq4eWN0glUdT8D5I9EWfjiOO42RGb?usp=sharing)**
 <br>
 
 ## 📊 GitHub Stats:

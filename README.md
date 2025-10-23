@@ -288,7 +288,7 @@ An IT professional with years of experience in System Administration including m
 <br>
 
 ## 📚 eBooks 
-- **[CompTIA A+ | Network+ | Security+ | MCSA Windows Server](https://drive.google.com/drive/folders/1wBQyq4eWN0glUdT8D5I9EWfjiOO42RGb?usp=sharing)**
+- **[CompTIA A+ | Network+ | Security+ | Linux+ | Server+ | Cisco CCNA | MCSA Windows Server](https://drive.google.com/drive/folders/1wBQyq4eWN0glUdT8D5I9EWfjiOO42RGb?usp=sharing)**
 <br>
 
 ## 💿 Installer

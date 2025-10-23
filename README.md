@@ -288,11 +288,11 @@ An IT professional with years of experience in System Administration including m
 <br>
 
 ## 📚 eBooks 
-- **[eBooks Collection - MCSA Windows Server - CompTIA A+ Network+ Security+](https://drive.google.com/drive/folders/1wBQyq4eWN0glUdT8D5I9EWfjiOO42RGb?usp=sharing)**
+- **[eBooks Collection | CompTIA A+ | Network+ | Security+ | MCSA Windows Server](https://drive.google.com/drive/folders/1wBQyq4eWN0glUdT8D5I9EWfjiOO42RGb?usp=sharing)**
 <br>
 
 ## 💿 Installer
-- **[Installer - Google Drive Link - MS Office 2024](https://drive.google.com/drive/folders/1cTiJh9B_YipY2GoNYhGXDpKMfi4vqOM1?usp=sharing)**
+- **[Installer | Google Drive Link | MS Office 2024](https://drive.google.com/drive/folders/1cTiJh9B_YipY2GoNYhGXDpKMfi4vqOM1?usp=sharing)**
 <br>
 
 ## 📊 GitHub Stats:

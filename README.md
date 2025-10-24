@@ -58,6 +58,7 @@ An IT professional with years of experience in System Administration including m
 
 ## 📂 PowerShell Projects
 
+- **[Connecting PowerShell to a Remote Machine](https://gist.github.com/arrianmunsod/3c5b10840feb24e767c57e73be632eef)**
 - **[Automating Creation of an SMB File Share for Each User in an Active Directory Environment](https://gist.github.com/arrianmunsod/1d2bbb705a5f3f915070617405ed5b8f)**
 
 <!-- 

@@ -218,7 +218,7 @@ An IT professional with years of experience in System Administration including m
 </div>
 * <br>
 
-<h2 align="left">🧠 Certificate of Completion (training only, no exam)</h2>
+<h2 align="left">🧠 Certificate of Completion (Completed certification curriculum - exam not pursued):</h2>
 
 <div align="left">
   <table>

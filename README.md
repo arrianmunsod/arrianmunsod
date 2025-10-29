@@ -263,12 +263,15 @@ An IT professional with years of experience in System Administration including m
   <table>
     <tr>
       <th align="left">🧠 Title</th>
+      <th align="center">🗓️ Date</th>
     </tr>
     <tr>
       <td align="left"><b>Skillsoft Aspire Journey - Windows Server 2022</b></td>
+      <td align="center">2025</td>
     </tr>
     <tr>
       <td align="left"><b>Practical Windows PowerShell Scripting</b></td>
+      <td align="center">2025</td>
     </tr>
   </table>
 </div>

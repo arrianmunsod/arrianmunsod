@@ -283,8 +283,8 @@ An IT professional with years of experience in System Administration including m
 - **Resumé**
 - **Transcript Of Records**
 - **Certificates**
-- **Programming Projects PDF Format**
-- **Labs PDF Format**
+- **PowerShell Scripts PDF Format**
+- **Projects PDF Format**
 - **Freelance Portfolio PDF Format**
 <br>
 

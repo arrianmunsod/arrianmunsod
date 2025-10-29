@@ -235,18 +235,23 @@ An IT professional with years of experience in System Administration including m
   <table>
     <tr>
       <th align="left">🧠 Title</th>
+      <th align="center">🗓️ Date</th>
     </tr>
     <tr>
       <td align="left"><b>CompTIA Linux+ (XK0-005)</b></td>
+      <td align="center">2025</td>
     </tr>
     <tr>
       <td align="left"><b>CompTIA Security+ (SY0-701)</b></td>
+      <td align="center">2025</td>
     </tr>
     <tr>
       <td align="left"><b>CompTIA A+ (220-1101 and 220-1102)</b></td>
+      <td align="center">2025</td>
     </tr>
     <tr>
       <td align="left"><b>CompTIA Server+ (SK0-005)</b></td>
+      <td align="center">2024</td>
     </tr>
   </table>
 </div>

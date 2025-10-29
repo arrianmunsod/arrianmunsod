@@ -75,7 +75,7 @@ An IT professional with years of experience in System Administration including m
 -->
 <br>
 
-## 📘 Windows Server Labs
+## 📘 Windows Server Projects
 
 - **[Auditing Folders And Files](https://gist.github.com/arrianmunsod/0fa0d96282a861c0695ec4d5603b80b4)**
 - **[Creating an SMB Share](https://gist.github.com/arrianmunsod/190cb1ee6ed70388a28fb13c9a94ea08)**

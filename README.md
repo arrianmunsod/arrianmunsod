@@ -125,10 +125,10 @@ An IT professional with years of experience in System Administration including m
 - Act as an external IT support to personal clients and small-to-medium businesses / offices. 
 - *Clients:*
 - *PruLife*
-- *One Comm - Globe Telecom Subcontractor*
-- *National Grid Corporation of the Philippines*
-- *McBir - Insurance Company for vehicles, houses, businesses*
-- *Meralco subcontractor - Engineering Firm specializing in planning and constructing public road infrastructure*
+- *Telecom Subcontractor*
+- *National Electricty / Power provider*
+- *Insurance Company for vehicles, houses, businesses*
+- *Engineering Firm specializing in planning and constructing public road infrastructure*
 - *Construction Company specializing in building private houses*
 - *Transportation Operation Regulatory Office*
 - *Local City Judiciary Courthouse (Justice Hall)*

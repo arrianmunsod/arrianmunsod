@@ -127,18 +127,18 @@ An IT professional with years of experience in System Administration including m
 - *PruLife*
 - *One Comm - Globe Telecom Subcontractor*
 - *National Grid Corporation of the Philippines*
+- *McBir - Insurance Company for vehicles, houses, businesses*
+- *Meralco subscontractor - Engineering Firm specializing in planning and constructing public road infrastructure*
+- *Construction Company specializing in building private houses*
+- *Transportation Operation Regulatory Office*
+- *Local City Judiciary Courthouse (Justic Hall)*
+- *Local Barangay Office*
 - *Work From Home (WFH) Employees*
 - *College Students*
 - *Personal Clients (relatives, friends, neighbors, referred clients)*
-- *Insurance Company for vehicles, houses, businesses*
-- *Transportation Operation Regulatory Office*
-- *Local Barangay Office*
 - *Teachers and Faculty Members at a Local Elementary / Grade School*
-- *Engineering Firm specializing in planning and constructing public road infrastructure*
-- *Construction Company specializing in building private houses*
 - *Printing Businesses (tshirt, anything print-related)*
 - *Internet Cafes*
-- *Local Judiciary Courthouse (Justic Hall)*
 - *Small-scale food businesses*
 
 **IT Administrator**  

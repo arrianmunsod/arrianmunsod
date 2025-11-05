@@ -125,6 +125,8 @@ An IT professional with years of experience in System Administration including m
 - Act as an external IT support to personal clients and small-to-medium businesses / offices. 
 - *Clients:*
 - *PruLife*
+- *One Comm - Globe Telecom Subcontractor*
+- *National Grid Corporation of the Philippines*
 - *Work From Home (WFH) Employees*
 - *College Students*
 - *Personal Clients (relatives, friends, neighbors, referred clients)*

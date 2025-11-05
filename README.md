@@ -128,10 +128,10 @@ An IT professional with years of experience in System Administration including m
 - *One Comm - Globe Telecom Subcontractor*
 - *National Grid Corporation of the Philippines*
 - *McBir - Insurance Company for vehicles, houses, businesses*
-- *Meralco subscontractor - Engineering Firm specializing in planning and constructing public road infrastructure*
+- *Meralco subcontractor - Engineering Firm specializing in planning and constructing public road infrastructure*
 - *Construction Company specializing in building private houses*
 - *Transportation Operation Regulatory Office*
-- *Local City Judiciary Courthouse (Justic Hall)*
+- *Local City Judiciary Courthouse (Justice Hall)*
 - *Local Barangay Office*
 - *Work From Home (WFH) Employees*
 - *College Students*

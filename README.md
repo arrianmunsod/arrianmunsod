@@ -2,7 +2,7 @@
 
 **`System Administrator`**
 
-An IT professional with years of experience in System Administration including managing IT infrastructure.<br><br>I have had the opportunity to function in different corporate environments full time. I also work part-time as an IT Technician / Consultant to personal clients and small-to-medium business offices. <br>
+An IT professional with years of experience in System Administration including managing IT infrastructure.<br><br> I have experience working in various corporate environments. I also work part-time as an IT Technician/Consultant for personal clients and small-to-medium businesses. <br>
 *
 
 ## 💻 Tech Stack / Skills:
@@ -81,7 +81,7 @@ An IT professional with years of experience in System Administration including m
 - **[Creating an SMB Share](https://gist.github.com/arrianmunsod/190cb1ee6ed70388a28fb13c9a94ea08)**
 <br>
 
-## 📑 Microsoft Office / 365
+## 📑 Microsoft Office /  Microsoft 365
 
 - **[Microsoft Word - Automated Image Resizing Based on Table Cell Dimensions](https://gist.github.com/arrianmunsod/781dd63147e3ff409dec5575f98dd4dc)**
 <br>
@@ -187,8 +187,8 @@ An IT professional with years of experience in System Administration including m
 **www.credential.net/profile/arrianmunsod**
 - **American Council on Education (ACE) College Credits**
 - **Certifications**
-- **Trainings / Self-paced Learning**
-- **Certificate of Completion**
+- **Trainings and Self-paced Learning**
+- **Certificates of Completion**
 <br>
 
 <h2 align="left">🧠 Certifications (certification exam passed)</h2>

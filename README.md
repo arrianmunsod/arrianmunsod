@@ -81,6 +81,11 @@ An IT professional with years of experience in System Administration including m
 - **[Creating an SMB Share](https://gist.github.com/arrianmunsod/190cb1ee6ed70388a28fb13c9a94ea08)**
 <br>
 
+## 📑 Microsoft Office / 365
+
+- **[Microsoft Word - Automated Image Resizing Based on Table Cell Dimensions](https://gist.github.com/arrianmunsod/22b966ad1b4dfe38c8e27942f70702d9)**
+<br>
+
 ## 📑 Tutorials
 
 - **[Reveal WiFi Passwords saved on your Windows 10/11 machine](https://gist.github.com/arrianmunsod/22b966ad1b4dfe38c8e27942f70702d9)**

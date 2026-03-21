@@ -125,9 +125,27 @@ An IT professional with years of experience in System Administration including m
 
 ## 🧑‍💼 Work History  
 
+
+
+**IT Administrator**  
+*Retailer Company* · *Jun 2018 – Sep 2019 (more than 1 year)*  
+- Migrated / upgraded / scaled company’s existing peer-to-peer network to a client-server network with Windows Server 2016 - 2019 domain controllers running on vSphere environment for agile scalability and centralized manageability. 
+- Replaced / upgraded company’s existing SOHO network infrastructure to a scalable enterprise network, from (copper DSL, dynamic public IP address, SOHO routers, unmanaged switches) to (managed switch and routers, DHCP and DNS running on Windows Server, fiber internet, static public IP address). 
+- Replaced company’s existing file sharing solution through external drives and emails with centralized dedicated file servers accessible through the internet via VPN.
+- Wrote PowerShell scripts to automate repetitive IT processes and improve administrative efficiency.
+- Managed Azure Active Directory (Entra ID), Office 365 applications, user licenses, and access permissions.
+- Performed workstation upgrades (SSD, RAM), OS migration from Windows 7 to 10, and domain integration.
+- Installed and administered analog PABX, CCTV, and biometric attendance systems.
+
+**Junior System Administrator**  
+*BPO Company* · *Aug 2012 – Dec 2016 (more than 4 years)*  
+- Configured and managed VMware vSphere virtual machines running Windows Server 2008–2012, Active Directory, Group Policies (GPO), and folder permissions; managed users, groups, and access control.
+- Assisted in network setup and maintenance, including structured cabling (RJ45 termination, patch panels, wall sockets), Cisco switch configuration (ports, ACLs, VLANs), and network monitoring. 
+- Collaborated with senior system administrators to troubleshoot network and server issues, ensuring uptime and system reliability.
+
 **Freelance IT Technician**  
-*2020 – Present*  
-- Act as an external IT support to personal clients and small-to-medium businesses / offices. 
+*2010 – Present*  
+- Provide IT support and technical services to personal clients and small-to-medium businesses
 - *Clients:*
 - *PruLife*
 - *Telecom Subcontractor*
@@ -145,22 +163,6 @@ An IT professional with years of experience in System Administration including m
 - *Printing Businesses (tshirt, anything print-related)*
 - *Internet Cafes*
 - *Small-scale food businesses*
-
-**IT Administrator**  
-*Retailer Company* · *Jun 2018 – Sep 2019 (more than 1 year)*  
-- Migrated / upgraded / scaled company’s existing peer-to-peer network to a client-server network with Windows Server 2016 - 2019 domain controllers running on vSphere environment for agile scalability and centralized manageability. 
-- Replaced / upgraded company’s existing SOHO network infrastructure to a scalable enterprise network, from (copper DSL, dynamic public IP address, SOHO routers, unmanaged switches) to (managed switch and routers, DHCP and DNS running on Windows Server, fiber internet, static public IP address). 
-- Replaced company’s existing file sharing solution through external drives and emails with centralized dedicated file servers accessible through the internet via VPN.
-- Wrote PowerShell scripts to automate repetitive IT processes and improve administrative efficiency.
-- Managed Azure Active Directory (Entra ID), Office 365 applications, user licenses, and access permissions.
-- Performed workstation upgrades (SSD, RAM), OS migration from Windows 7 to 10, and domain integration.
-- Installed and administered analog PABX, CCTV, and biometric attendance systems.
-
-**Junior System Administrator**  
-*BPO Company* · *Aug 2012 – Dec 2016 (more than 4 years)*  
-- Configured and managed VMWare vSphere, Windows Server 2008 - 2012, Active Directory, Group Policies (GPO), folder permissions.
-- Implemented structured cabling, configured Windows Server DHCP/DNS, managed data backups, and monitored network health.
-- Helped senior administrators in monitoring and troubleshooting the company’s network and servers’ performance. 
 
 <br>
 

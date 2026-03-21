@@ -125,17 +125,22 @@ An IT professional with years of experience in System Administration including m
 
 ## 🧑‍💼 Work History  
 
+**Technical Documentation Assistant**  
+*Subcontractor Company* · *Jan 2026 – current*  
+- Produce detailed Technical Site Survey Reports and AutoCAD drawings for building layouts, network, and electrical systems supporting major energy and telecom projects.
+- Managed technical documentation for data center and power plant systems and provide IT support including equipment configuration and troubleshooting for the company.
 
+**Remote IT Help Desk Technician**  
+*Retailer Company* · *Aug 2020 – Aug 2023 (3 years)*  
+- Provided user support including account access, password resets, login and authentication troubleshooting via Active Directory, resolved IT/technical issues remotely, and maintained support tickets to ensure timely resolution for remote users.
 
 **IT Administrator**  
-*Retailer Company* · *Jun 2018 – Sep 2019 (more than 1 year)*  
-- Migrated / upgraded / scaled company’s existing peer-to-peer network to a client-server network with Windows Server 2016 - 2019 domain controllers running on vSphere environment for agile scalability and centralized manageability. 
-- Replaced / upgraded company’s existing SOHO network infrastructure to a scalable enterprise network, from (copper DSL, dynamic public IP address, SOHO routers, unmanaged switches) to (managed switch and routers, DHCP and DNS running on Windows Server, fiber internet, static public IP address). 
-- Replaced company’s existing file sharing solution through external drives and emails with centralized dedicated file servers accessible through the internet via VPN.
-- Wrote PowerShell scripts to automate repetitive IT processes and improve administrative efficiency.
-- Managed Azure Active Directory (Entra ID), Office 365 applications, user licenses, and access permissions.
-- Performed workstation upgrades (SSD, RAM), OS migration from Windows 7 to 10, and domain integration.
-- Installed and administered analog PABX, CCTV, and biometric attendance systems.
+*Construction Firm* · *Jun 2018 – Sep 2019 (more than 1 year)*  
+- Architected and deployed a Windows Server 2016/2019 Active Directory domain environment on VMware vSphere, replacing the legacy peer-to-peer network with a centralized client–server infrastructure.
+- Upgraded the company’s SOHO network infrastructure to a scalable enterprise network, replacing DSL, dynamic public IPs, SOHO routers, and unmanaged switches with managed network equipment, fiber internet, static public IP addressing, and Windows Server-based DHCP/DNS services
+- Modernized the company’s file-sharing infrastructure by replacing external drives and email-based sharing with centralized Windows Server file servers, accessible remotely via VPN and integrated with Active Directory for centralized authentication and access control.
+- Developed PowerShell automation scripts for IT operations, including reporting, log generation, Office 365 administration, and user account management.
+- Administered Microsoft Entra ID (Azure AD) and Microsoft 365 environment, managing user provisioning, license assignments, application access, and permissions.
 
 **Junior System Administrator**  
 *BPO Company* · *Aug 2012 – Dec 2016 (more than 4 years)*  

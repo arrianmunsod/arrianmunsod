@@ -83,7 +83,7 @@ An IT professional with years of experience in System Administration including m
 
 ## 📑 Microsoft Office / 365
 
-- **[Microsoft Word - Automated Image Resizing Based on Table Cell Dimensions](https://gist.github.com/arrianmunsod/22b966ad1b4dfe38c8e27942f70702d9)**
+- **[Microsoft Word - Automated Image Resizing Based on Table Cell Dimensions](https://gist.github.com/arrianmunsod/781dd63147e3ff409dec5575f98dd4dc)**
 <br>
 
 ## 📑 Tutorials

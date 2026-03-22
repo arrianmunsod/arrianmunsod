@@ -132,7 +132,7 @@ An IT professional with years of experience in System Administration including m
 - Managed technical documentation for data center and power plant systems and provide IT support including equipment configuration and troubleshooting for the company.
 
 **Remote IT Help Desk Technician**  
-*Retailer Company* · *Aug 2020 – Aug 2023 (3 years)*  
+*Remote Company* · *Aug 2020 – Aug 2023 (3 years)*  
 - Provided user support including account access, password resets, login and authentication troubleshooting via Active Directory, resolved IT/technical issues remotely, and maintained support tickets to ensure timely resolution for remote users.
 
 **IT Administrator**  

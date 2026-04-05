@@ -294,13 +294,11 @@ An IT professional with years of experience in System Administration including m
 
 ## 📫 Download / view my employment documents
 **Download / view my employment documents at:** <br> 
-**https://tinyurl.com/arriandocuments**
+**https://tinyurl.com/arriandocs**
 - **Resumé**
 - **Transcript Of Records**
 - **Certificates**
-- **PowerShell Scripts PDF Format**
-- **Projects PDF Format**
-- **Freelance Portfolio PDF Format**
+- **Employment Documents**
 <br>
 
 ## 📫 Contact Me 

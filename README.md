@@ -151,11 +151,11 @@ An IT professional with years of experience in System Administration including m
 
 **Freelance IT Technician**  
 *2010 – Present*  
-- Provide IT support and technical services to personal clients and small-to-medium businesses
+- Provide IT support and technical services to personal clients, SMEs, telecoms, energy provider. 
 - *Clients:*
 - *PruLife*
 - *Telecom Subcontractor*
-- *National Electricty / Power provider*
+- *National Electricity / Power provider*
 - *Insurance Company for vehicles, houses, businesses*
 - *Engineering Firm specializing in planning and constructing public road infrastructure*
 - *Construction Company specializing in building private houses*

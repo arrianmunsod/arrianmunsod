@@ -1,10 +1,11 @@
 # 🐈 Arrian Munsod
 
 **`System Administrator`** <br>
+**`0954 2600 336`** <br>
 **`arrianmunsod879@gmail.com`** <br>
 **`www.linkedin.com/in/arrianmunsod`** <br>
 <br>
-## 👨🏽‍💻 Tech Stack / Skills:
+## 💻 Tech Stack / Skills:
 
 ![Static Badge](https://img.shields.io/badge/Windows%20Server-red) 
 ![Static Badge](https://img.shields.io/badge/PowerShell-red)
@@ -55,7 +56,7 @@
 <br>
 *
 
-## 💻 PowerShell Projects
+## 👨🏽‍💻 PowerShell Projects
 
 - **[Connecting PowerShell to a Remote Machine](https://gist.github.com/arrianmunsod/3c5b10840feb24e767c57e73be632eef)**
 - **[Automating Creation of an SMB File Share for Each User in an Active Directory Environment](https://gist.github.com/arrianmunsod/1d2bbb705a5f3f915070617405ed5b8f)**
@@ -74,29 +75,29 @@
 -->
 <br>
 
-## 💻 Windows Server Projects and Labs
+## 👨🏽‍💻 Windows Server Projects and Labs
 
 - **[Auditing Folders And Files](https://gist.github.com/arrianmunsod/0fa0d96282a861c0695ec4d5603b80b4)**
 - **[Creating an SMB Share](https://gist.github.com/arrianmunsod/190cb1ee6ed70388a28fb13c9a94ea08)**
 <br>
 
-## 💻 Microsoft Office and MS365
+## 👨🏽‍💻 Microsoft Office and MS365
 
 - **[Microsoft Word - Automated Image Resizing Based on Table Cell Dimensions](https://gist.github.com/arrianmunsod/781dd63147e3ff409dec5575f98dd4dc)**
 - **[Microsoft Excel Automation – Resize Images to Match Cell Size](https://gist.github.com/arrianmunsod/81917684b039d048bf6c8500cf21b901)**
 <br>
 
-## 💻 Linux Projects, Labs, Tutorials
+## 👨🏽‍💻 Linux Projects, Labs, Tutorials
 
 - **[Linux Essential Commands](https://gist.github.com/arrianmunsod/47798b1f9445724704b994c507af9241)**
 <br>
 
-## 💻 Tutorials
+## 👨🏽‍💻 Tutorials
 
 - **[Reveal WiFi Passwords saved on your Windows 10/11 machine](https://gist.github.com/arrianmunsod/22b966ad1b4dfe38c8e27942f70702d9)**
 <br>
 
-## 😎 Freelance Portfolio
+## 👨🏽‍💻 Freelance Portfolio
 
 - **[Blue Screen Of Death: PAGE_FAULT_IN_NON_PAGE_AREA](https://gist.github.com/arrianmunsod/1aa0be02213bb881e885b7be8b7d5652)**
 - **[BIOS Password HP SpareKey Recovery](https://gist.github.com/arrianmunsod/b8f7eb04d319b5058c0354be9a2468c2)**
@@ -123,7 +124,7 @@
 - **[No Boot Device Selected](https://gist.github.com/arrianmunsod/31abd5aa7c9a9d47eb196492fba38484)**
 <br>
 
-## 🐾 Miscellaneous
+## 👨🏽‍💻 Miscellaneous
 
 - **[HG8145V5 Default Username and Password](https://gist.github.com/arrianmunsod/b23246c0cfdb38e9ab34ad4df96859b9)**
 <br>

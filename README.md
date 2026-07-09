@@ -75,16 +75,21 @@ An IT professional with years of experience in System Administration including m
 -->
 <br>
 
-## 📘 Windows Server Projects / Labs
+## 📘 Windows Server Projects and Labs
 
 - **[Auditing Folders And Files](https://gist.github.com/arrianmunsod/0fa0d96282a861c0695ec4d5603b80b4)**
 - **[Creating an SMB Share](https://gist.github.com/arrianmunsod/190cb1ee6ed70388a28fb13c9a94ea08)**
 <br>
 
-## 📑 Microsoft Office /  Microsoft 365
+## 📑 Microsoft Office and  Microsoft 365
 
 - **[Microsoft Word - Automated Image Resizing Based on Table Cell Dimensions](https://gist.github.com/arrianmunsod/781dd63147e3ff409dec5575f98dd4dc)**
 - **[Microsoft Excel Automation – Resize Images to Match Cell Size](https://gist.github.com/arrianmunsod/81917684b039d048bf6c8500cf21b901)**
+<br>
+
+## 📑 Linux Projects, Labs, Tutorials
+
+- **[Placeholder](https://github.com/arrianmunsod)**
 <br>
 
 ## 📑 Tutorials

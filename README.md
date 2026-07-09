@@ -292,10 +292,3 @@
 ## 💿 Installer
 - **[MS Office 2024](https://drive.google.com/drive/folders/1cTiJh9B_YipY2GoNYhGXDpKMfi4vqOM1?usp=sharing)**
 <br>
-
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=arrianmunsod&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=arrianmunsod&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=arrianmunsod&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-

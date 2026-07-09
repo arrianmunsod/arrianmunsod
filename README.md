@@ -89,7 +89,7 @@ An IT professional with years of experience in System Administration including m
 
 ## 💻 Linux Projects, Labs, Tutorials
 
-- **[Linux Essential Commands](https://github.com/arrianmunsod](https://gist.github.com/arrianmunsod/47798b1f9445724704b994c507af9241)**
+- **[Linux Essential Commands](https://gist.github.com/arrianmunsod/47798b1f9445724704b994c507af9241)**
 <br>
 
 ## 💻 Tutorials

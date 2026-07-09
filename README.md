@@ -157,24 +157,7 @@ An IT professional with years of experience in System Administration including m
 **Freelance IT Technician**  
 *2010 – Present*  
 - Provide IT support and technical services to personal clients, SMEs, telecoms, energy provider. 
-- *Clients:*
-- *PruLife*
-- *Telecom Subcontractor*
-- *National Electricity / Power provider*
-- *Insurance Company for vehicles, houses, businesses*
-- *Engineering Firm specializing in planning and constructing public road infrastructure*
-- *Construction Company specializing in building private houses*
-- *Transportation Operation Regulatory Office*
-- *Local City Judiciary Courthouse (Justice Hall)*
-- *Local Barangay Office*
-- *Work From Home (WFH) Employees*
-- *College Students*
-- *Personal Clients (relatives, friends, neighbors, referred clients)*
-- *Teachers and Faculty Members at a Local Elementary / Grade School*
-- *Printing Businesses (tshirt, anything print-related)*
-- *Internet Cafes*
-- *Small-scale food businesses*
-
+- *Clients: PruLife Subcontractor, Globe Subcontractor, NGCP Subcontractor, Meralco Subcontractor, Insurance Company, Construction Firm, Transportation Operation Regulatory Office, Local City Judiciary Courthouse, Local Barangay Office, Work From Home Employees, College Students, Personal Clients, Local Elementary School, Printing Businesses, Internet Cafes, Food Businesses*
 <br>
 
 ## 🎓 Education  

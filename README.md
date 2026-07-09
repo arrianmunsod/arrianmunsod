@@ -136,6 +136,11 @@ An IT professional with years of experience in System Administration including m
 - Produce detailed Technical Site Survey Reports and AutoCAD drawings for building layouts, network, and electrical systems supporting major energy and telecom projects.
 - Managed technical documentation for data center and power plant systems and provide IT support including equipment configuration and troubleshooting for the company.
 
+**Freelance IT Technician**  
+*2010 – Present*  
+- Provide IT support and technical services to personal clients, SMEs, telecoms, energy provider. 
+- Clients: PruLife Subcontractor, Globe Subcontractor, NGCP Subcontractor, Meralco Subcontractor, Insurance Company, Construction Firm, Transportation Operation Regulatory Office, Local City Judiciary Courthouse, Local Barangay Office, Work From Home Employees, College Students, Personal Clients, Local Elementary School, Printing Businesses, Internet Cafes, Food Businesses
+
 **Remote IT Help Desk Technician**  
 *Remote Company* · *Aug 2020 – Aug 2023 (3 years)*  
 - Provided user support including account access, password resets, login and authentication troubleshooting via Active Directory, resolved IT/technical issues remotely, and maintained support tickets to ensure timely resolution for remote users.
@@ -153,11 +158,6 @@ An IT professional with years of experience in System Administration including m
 - Configured and managed VMware vSphere virtual machines running Windows Server 2008–2012, Active Directory, Group Policies (GPO), and folder permissions; managed users, groups, and access control.
 - Assisted in network setup and maintenance, including structured cabling (RJ45 termination, patch panels, wall sockets), Cisco switch configuration (ports, ACLs, VLANs), and network monitoring. 
 - Collaborated with senior system administrators to troubleshoot network and server issues, ensuring uptime and system reliability.
-
-**Freelance IT Technician**  
-*2010 – Present*  
-- Provide IT support and technical services to personal clients, SMEs, telecoms, energy provider. 
-- *Clients: PruLife Subcontractor, Globe Subcontractor, NGCP Subcontractor, Meralco Subcontractor, Insurance Company, Construction Firm, Transportation Operation Regulatory Office, Local City Judiciary Courthouse, Local Barangay Office, Work From Home Employees, College Students, Personal Clients, Local Elementary School, Printing Businesses, Internet Cafes, Food Businesses*
 <br>
 
 ## 🎓 Education  

@@ -1,10 +1,9 @@
 # 🐈 Arrian Munsod
 
-**`System Administrator`**
-
-An IT professional with years of experience in System Administration including managing IT infrastructure.<br><br> I have experience working in various corporate environments. I also work part-time as an IT Technician/Consultant for personal clients and small-to-medium businesses. <br>
-*
-
+**`System Administrator`** <br>
+**`arrianmunsod879@gmail.com`** <br>
+**`www.linkedin.com/in/arrianmunsod`** <br>
+<br>
 ## 👨🏽‍💻 Tech Stack / Skills:
 
 ![Static Badge](https://img.shields.io/badge/Windows%20Server-red) 
@@ -283,11 +282,6 @@ An IT professional with years of experience in System Administration including m
 - **Certifications**
 - **Trainings and Self-paced Learning**
 - **Certificates of Completion**
-<br>
-
-## 📫 Contact Me 
-- **arrianmunsod879@gmail.com**
-- **www.linkedin.com/in/arrianmunsod**
 <br>
 
 ## 📚 eBooks 

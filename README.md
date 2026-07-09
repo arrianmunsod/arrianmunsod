@@ -1,9 +1,9 @@
-# 🐈 Arrian Munsod
+# Arrian Munsod
 
-**`System Administrator`** <br>
-**`0954 2600 336`** <br>
-**`arrianmunsod879@gmail.com`** <br>
-**`www.linkedin.com/in/arrianmunsod`** <br>
+**System Administrator** <br>
+**0954 2600 336 Globe (Gcash)** <br>
+**arrianmunsod879@gmail.com** <br>
+**www.linkedin.com/in/arrianmunsod** <br>
 <br>
 ## 💻 Tech Stack / Skills:
 

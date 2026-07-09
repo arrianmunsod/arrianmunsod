@@ -187,16 +187,6 @@ An IT professional with years of experience in System Administration including m
 
 </div><br>
 
-## 🔍 Verify My Credentials
-**Verify my complete list of credentials at:** <br>
-**www.credly.com/users/arrianmunsod**<br>
-**www.credential.net/profile/arrianmunsod**
-- **American Council on Education (ACE) College Credits**
-- **Certifications**
-- **Trainings and Self-paced Learning**
-- **Certificates of Completion**
-<br>
-
 <h2 align="left">🧠 Completed certification curriculum (exam not pursued):</h2>
 
 <div align="left">
@@ -300,6 +290,16 @@ An IT professional with years of experience in System Administration including m
   </table>
 </div>
 * <br>
+
+## 🔍 Verify My Credentials
+**Verify my complete list of credentials at:** <br>
+**www.credly.com/users/arrianmunsod**<br>
+**www.credential.net/profile/arrianmunsod**
+- **American Council on Education (ACE) College Credits**
+- **Certifications**
+- **Trainings and Self-paced Learning**
+- **Certificates of Completion**
+<br>
 
 ## 📫 Contact Me 
 - **arrianmunsod879@gmail.com**

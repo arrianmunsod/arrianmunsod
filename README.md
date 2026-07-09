@@ -75,7 +75,7 @@ An IT professional with years of experience in System Administration including m
 -->
 <br>
 
-## 📘 Windows Server Projects
+## 📘 Windows Server Projects / Labs
 
 - **[Auditing Folders And Files](https://gist.github.com/arrianmunsod/0fa0d96282a861c0695ec4d5603b80b4)**
 - **[Creating an SMB Share](https://gist.github.com/arrianmunsod/190cb1ee6ed70388a28fb13c9a94ea08)**
@@ -192,58 +192,6 @@ An IT professional with years of experience in System Administration including m
 - **Certificates of Completion**
 <br>
 
-<h2 align="left">🧠 Certifications (certification exam passed)</h2>
-
-<div align="left">
-  <table>
-    <tr>
-      <th align="left">🧠 Title</th>
-      <th align="center">🗓️ Date</th>
-    </tr>
-    <tr>
-      <td align="left"><b>Pearson IT Specialist - Networking (INF-101)</b></td>
-      <td align="center">2023</td>
-    </tr>
-    <tr>
-      <td align="left"><b>VMWare Certified Technical Associate - Data Center Virtualization (VCTA-DCV)</b></td>
-      <td align="center">2021</td>
-    </tr>
-    <tr>
-      <td align="left"><b>CompTIA ITF+ Certified (FC0-U61)</b></td>
-      <td align="center">2021</td>
-    </tr>
-    <tr>
-      <td align="left"><b>Administering Windows Server Hybrid Core Infrastructure (AZ-800)</b></td>
-      <td align="center">2022</td>
-    </tr>
-    <tr>
-      <td align="left"><b>Microsoft Technology Associate - Windows Server Administration (MTA 98-365)</b></td>
-      <td align="center">2021</td>
-    </tr>
-    <tr>
-      <td align="left"><b>Microsoft Technology Associate - Networking (MTA 98-366)</b></td>
-      <td align="center">2021</td>
-    </tr>
-    <tr>
-      <td align="left"><b>Microsoft Technology Associate - Security (MTA 98-367)</b></td>
-      <td align="center">2021</td>
-    </tr>
-    <tr>
-      <td align="left"><b>Microsoft 365 Certified - Fundamentals (MS-900)</b></td>
-      <td align="center">2021</td>
-    </tr>
-    <tr>
-      <td align="left"><b>Microsoft Certified - Azure Fundamentals (AZ-900)</b></td>
-      <td align="center">2021</td>
-    </tr>
-    <tr>
-      <td align="left"><b>Microsoft Certified - Security, Compliance, and Identity Fundamentals (SC-900)</b></td>
-      <td align="center">2021</td>
-    </tr>
-  </table>
-</div>
-* <br>
-
 <h2 align="left">🧠 Completed certification curriculum (exam not pursued):</h2>
 
 <div align="left">
@@ -296,14 +244,57 @@ An IT professional with years of experience in System Administration including m
 </div>
 * <br>
 
-## 📫 Download / view my employment documents
-**Download / view my employment documents at:** <br> 
-**https://tinyurl.com/arriandocs**
-- **Resumé**
-- **Transcript Of Records**
-- **Certificates**
-- **Employment Documents**
-<br>
+<h2 align="left">🧠 Certifications (certification exam passed)</h2>
+
+<div align="left">
+  <table>
+    <tr>
+      <th align="left">🧠 Title</th>
+      <th align="center">🗓️ Date</th>
+    </tr>
+    <tr>
+      <td align="left"><b>Pearson IT Specialist - Networking (INF-101)</b></td>
+      <td align="center">2023</td>
+    </tr>
+    <tr>
+      <td align="left"><b>VMWare Certified Technical Associate - Data Center Virtualization (VCTA-DCV)</b></td>
+      <td align="center">2021</td>
+    </tr>
+    <tr>
+      <td align="left"><b>CompTIA ITF+ Certified (FC0-U61)</b></td>
+      <td align="center">2021</td>
+    </tr>
+    <tr>
+      <td align="left"><b>Administering Windows Server Hybrid Core Infrastructure (AZ-800)</b></td>
+      <td align="center">2022</td>
+    </tr>
+    <tr>
+      <td align="left"><b>Microsoft Technology Associate - Windows Server Administration (MTA 98-365)</b></td>
+      <td align="center">2021</td>
+    </tr>
+    <tr>
+      <td align="left"><b>Microsoft Technology Associate - Networking (MTA 98-366)</b></td>
+      <td align="center">2021</td>
+    </tr>
+    <tr>
+      <td align="left"><b>Microsoft Technology Associate - Security (MTA 98-367)</b></td>
+      <td align="center">2021</td>
+    </tr>
+    <tr>
+      <td align="left"><b>Microsoft 365 Certified - Fundamentals (MS-900)</b></td>
+      <td align="center">2021</td>
+    </tr>
+    <tr>
+      <td align="left"><b>Microsoft Certified - Azure Fundamentals (AZ-900)</b></td>
+      <td align="center">2021</td>
+    </tr>
+    <tr>
+      <td align="left"><b>Microsoft Certified - Security, Compliance, and Identity Fundamentals (SC-900)</b></td>
+      <td align="center">2021</td>
+    </tr>
+  </table>
+</div>
+* <br>
 
 ## 📫 Contact Me 
 - **arrianmunsod879@gmail.com**

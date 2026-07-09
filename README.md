@@ -1,6 +1,6 @@
 # Arrian Munsod
 
-**System Administrator** <br>
+**`System Administrator`** <br>
 **0954 2600 336 Globe (Gcash)** <br>
 **arrianmunsod879@gmail.com** <br>
 **www.linkedin.com/in/arrianmunsod** <br>
@@ -56,7 +56,7 @@
 <br>
 *
 
-## 👨🏽‍💻 PowerShell Projects
+## 🅿️ PowerShell Projects
 
 - **[Connecting PowerShell to a Remote Machine](https://gist.github.com/arrianmunsod/3c5b10840feb24e767c57e73be632eef)**
 - **[Automating Creation of an SMB File Share for Each User in an Active Directory Environment](https://gist.github.com/arrianmunsod/1d2bbb705a5f3f915070617405ed5b8f)**
@@ -75,13 +75,13 @@
 -->
 <br>
 
-## 👨🏽‍💻 Windows Server Projects and Labs
+## 📁 Windows Server Projects and Labs
 
 - **[Auditing Folders And Files](https://gist.github.com/arrianmunsod/0fa0d96282a861c0695ec4d5603b80b4)**
 - **[Creating an SMB Share](https://gist.github.com/arrianmunsod/190cb1ee6ed70388a28fb13c9a94ea08)**
 <br>
 
-## 👨🏽‍💻 Microsoft Office and MS365
+## 📗📘 Microsoft Office and MS365
 
 - **[Microsoft Word - Automated Image Resizing Based on Table Cell Dimensions](https://gist.github.com/arrianmunsod/781dd63147e3ff409dec5575f98dd4dc)**
 - **[Microsoft Excel Automation – Resize Images to Match Cell Size](https://gist.github.com/arrianmunsod/81917684b039d048bf6c8500cf21b901)**
@@ -92,7 +92,7 @@
 - **[Linux Essential Commands](https://gist.github.com/arrianmunsod/47798b1f9445724704b994c507af9241)**
 <br>
 
-## 👨🏽‍💻 Tutorials
+## 📑 Tutorials
 
 - **[Reveal WiFi Passwords saved on your Windows 10/11 machine](https://gist.github.com/arrianmunsod/22b966ad1b4dfe38c8e27942f70702d9)**
 <br>

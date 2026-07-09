@@ -81,7 +81,7 @@ An IT professional with years of experience in System Administration including m
 - **[Creating an SMB Share](https://gist.github.com/arrianmunsod/190cb1ee6ed70388a28fb13c9a94ea08)**
 <br>
 
-## 💻 Microsoft Office and  Microsoft 365
+## 💻 Microsoft Office and MS365
 
 - **[Microsoft Word - Automated Image Resizing Based on Table Cell Dimensions](https://gist.github.com/arrianmunsod/781dd63147e3ff409dec5575f98dd4dc)**
 - **[Microsoft Excel Automation – Resize Images to Match Cell Size](https://gist.github.com/arrianmunsod/81917684b039d048bf6c8500cf21b901)**
@@ -132,12 +132,12 @@ An IT professional with years of experience in System Administration including m
 ## 🧑‍💼 Work History  
 
 **Technical Documentation Assistant**  
-*Subcontractor Company* · *Jan 2026 – current*  
+*Subcontractor Company* · *Jan 2026 – present*  
 - Produce detailed Technical Site Survey Reports and AutoCAD drawings for building layouts, network, and electrical systems supporting major energy and telecom projects.
 - Managed technical documentation for data center and power plant systems and provide IT support including equipment configuration and troubleshooting for the company.
 
 **Freelance IT Technician**  
-*2010 – Present*  
+*2010 – present*  
 - Provide IT support and technical services to personal clients, SMEs, telecoms, energy provider. 
 - Clients: PruLife Subcontractor, Globe Subcontractor, NGCP Subcontractor, Meralco Subcontractor, Insurance Company, Construction Firm, Transportation Operation Regulatory Office, Local City Judiciary Courthouse, Local Barangay Office, Work From Home Employees, College Students, Personal Clients, Local Elementary School, Printing Businesses, Internet Cafes, Food Businesses
 
@@ -166,7 +166,8 @@ An IT professional with years of experience in System Administration including m
 
 | 🎓 Degree | 🏫 Institution | 📅 Year |
 |:--|:--|:--|
-| **College Credits Earned: 154 Semester Hours focused on System Administration, Cloud Computing, Networking in lower and upper baccalaureate** | American Council on Education (ACE) | 2021 – 2025 |
+| **154 Semester Hours focused on System Administration, Cloud Computing, Networking in lower and upper baccalaureate** | American Council on Education (ACE) | 2021 – 2025 |
+| **Bachelor of Science in Information Technology** | University of the East - Manila | 2006 – 2010 |
 
 </div><br>
 

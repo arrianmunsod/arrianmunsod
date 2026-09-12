@@ -60,7 +60,7 @@
 
 - **[Connecting PowerShell to a Remote Machine](https://gist.github.com/arrianmunsod/3c5b10840feb24e767c57e73be632eef)**
 - **[Automating Creation of an SMB File Share for Each User in an Active Directory Environment](https://gist.github.com/arrianmunsod/1d2bbb705a5f3f915070617405ed5b8f)**
-- **[Block All EXE Files in Folder and Subfolders Using Windows Firewall](https://gist.github.com/arrianmunsod/)**
+- **[Block All EXE Files in Folder and Subfolders Using Windows Firewall](https://gist.github.com/arrianmunsod/58f2309263bfa35636c27c91f71043e0)**
 
 <!-- 
 <details>

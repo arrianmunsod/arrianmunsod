@@ -56,7 +56,7 @@
 <br>
 *
 
-## 🅿️ PowerShell Projects
+## 🅿️ PowerShell Scripts / Projects
 
 - **[POWERSHELL CHEAT SHEET 💢 ❗](https://gist.github.com/arrianmunsod/fb31bd300ca4e1e48e04cb1f7b144de0)**
 - **[Connecting PowerShell to a Remote Machine](https://gist.github.com/arrianmunsod/3c5b10840feb24e767c57e73be632eef)**

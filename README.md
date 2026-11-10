@@ -98,7 +98,7 @@ I leverage AI tools to assist with code generation, research, troubleshooting, a
 ## 👨🏽‍💻 Linux Projects, Labs, Tutorials
 
 ### 1. Miscellaneous
-- **[1.1. LINUX CHEAT SHEET 💢 ❗](https://gist.github.com/arrianmunsod/47798b1f9445724704b994c507af9241)**
+- **[1.1. LINUX CHEAT SHEET 💢 ❗](https://gist.github.com/arrianmunsod/cc032a1f97d186f4a3c9b45aa2e4eae5)**
 <br>
 
 ## 📑 Tutorials

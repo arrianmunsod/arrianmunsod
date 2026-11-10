@@ -153,33 +153,16 @@ I leverage AI tools to assist with code generation, research, troubleshooting, a
 
 ## 🧑‍💼 Work History  
 
-**Technical Documentation Assistant**  
-*Subcontractor Company* · *Jan 2026 – present*  
-- Produce detailed Technical Site Survey Reports and AutoCAD drawings for building layouts, network, and electrical systems supporting major energy and telecom projects.
-- Managed technical documentation for data center and power plant systems and provide IT support including equipment configuration and troubleshooting for the company.
+## Professional Experience
 
-**Freelance IT Technician**  
-*2010 – present*  
-- Provide IT support and technical services to personal clients, SMEs, telecoms, energy provider. 
-- Clients: PruLife Subcontractor, Globe Subcontractor, NGCP Subcontractor, Meralco Subcontractor, Insurance Company, Construction Firm, Transportation Operation Regulatory Office, Local City Judiciary Courthouse, Local Barangay Office, Work From Home Employees, College Students, Personal Clients, Local Elementary School, Printing Businesses, Internet Cafes, Food Businesses
+| Position | Company / Industry | Duration | Responsibilities & Achievements |
+|---|---|---|---|
+| **Technical Documentation Assistant** | Subcontractor Company | Jan 2026 – Present | - Produce Technical Site Survey Reports and AutoCAD drawings for building layouts, network, and electrical systems supporting major energy and telecommunications projects.<br>- Manage technical documentation for data center and power plant systems.<br>- Provide IT support, including equipment configuration and troubleshooting. |
+| **Freelance IT Technician** | Freelance / Multiple Industries | 2010 – Present | - Provide IT support and technical services to individual clients, SMEs, telecommunications companies, and energy providers.<br>- **Clients / Industries:** PruLife Subcontractor, Globe Subcontractor, NGCP Subcontractor, Meralco Subcontractor, insurance companies, construction firms, transportation regulatory offices, local judiciary courthouses, barangay offices, remote workers, college students, elementary schools, printing businesses, internet cafés, and food businesses. |
+| **Remote IT Help Desk Technician** | Remote Company | Aug 2020 – Aug 2023 | - Provided remote user support, including account access, password resets, login and authentication troubleshooting through Active Directory.<br>- Diagnosed and resolved technical issues remotely.<br>- Maintained support tickets to ensure timely issue resolution for remote users. |
+| **IT Administrator** | Construction Firm | Jun 2018 – Sep 2019 | - Architected and deployed a Windows Server 2016/2019 Active Directory domain environment on VMware vSphere, replacing the legacy peer-to-peer network with centralized client-server infrastructure.<br>- Upgraded SOHO networking infrastructure to an enterprise-oriented network using managed network equipment, fiber internet, static public IP addressing, and Windows Server DHCP/DNS services.<br>- Implemented centralized Windows Server file sharing with remote VPN access and Active Directory authentication and access control.<br>- Developed PowerShell automation scripts for reporting, log generation, Microsoft 365 administration, and user account management.<br>- Administered Microsoft Entra ID (Azure AD) and Microsoft 365, including user provisioning, license assignments, application access, and permissions. |
+| **Junior System Administrator** | BPO Company | Aug 2012 – Dec 2016 | - Configured and managed VMware vSphere virtual machines running Windows Server 2008–2012, Active Directory, Group Policy (GPO), and folder permissions.<br>- Managed user accounts, groups, and access controls.<br>- Assisted with network setup and maintenance, including structured cabling, RJ45 termination, patch panels, and wall sockets.<br>- Configured Cisco switches, including ports, ACLs, and VLANs, and assisted with network monitoring.<br>- Collaborated with senior system administrators to troubleshoot network and server issues and maintain system reliability. |
 
-**Remote IT Help Desk Technician**  
-*Remote Company* · *Aug 2020 – Aug 2023 (3 years)*  
-- Provided user support including account access, password resets, login and authentication troubleshooting via Active Directory, resolved IT/technical issues remotely, and maintained support tickets to ensure timely resolution for remote users.
-
-**IT Administrator**  
-*Construction Firm* · *Jun 2018 – Sep 2019 (more than 1 year)*  
-- Architected and deployed a Windows Server 2016/2019 Active Directory domain environment on VMware vSphere, replacing the legacy peer-to-peer network with a centralized client–server infrastructure.
-- Upgraded the company’s SOHO network infrastructure to a scalable enterprise network, replacing DSL, dynamic public IPs, SOHO routers, and unmanaged switches with managed network equipment, fiber internet, static public IP addressing, and Windows Server-based DHCP/DNS services
-- Modernized the company’s file-sharing infrastructure by replacing external drives and email-based sharing with centralized Windows Server file servers, accessible remotely via VPN and integrated with Active Directory for centralized authentication and access control.
-- Developed PowerShell automation scripts for IT operations, including reporting, log generation, Office 365 administration, and user account management.
-- Administered Microsoft Entra ID (Azure AD) and Microsoft 365 environment, managing user provisioning, license assignments, application access, and permissions.
-
-**Junior System Administrator**  
-*BPO Company* · *Aug 2012 – Dec 2016 (more than 4 years)*  
-- Configured and managed VMware vSphere virtual machines running Windows Server 2008–2012, Active Directory, Group Policies (GPO), and folder permissions; managed users, groups, and access control.
-- Assisted in network setup and maintenance, including structured cabling (RJ45 termination, patch panels, wall sockets), Cisco switch configuration (ports, ACLs, VLANs), and network monitoring. 
-- Collaborated with senior system administrators to troubleshoot network and server issues, ensuring uptime and system reliability.
 <br>
 
 ## 🎓 Education  

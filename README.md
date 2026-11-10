@@ -108,26 +108,39 @@ I leverage AI tools to assist with code generation, research, troubleshooting, a
 
 ## ✔️ Freelance Portfolio
 
-- **[Blue Screen Of Death: PAGE_FAULT_IN_NON_PAGE_AREA](https://gist.github.com/arrianmunsod/1aa0be02213bb881e885b7be8b7d5652)**
-- **[BIOS Password HP SpareKey Recovery](https://gist.github.com/arrianmunsod/b8f7eb04d319b5058c0354be9a2468c2)**
-- **[Hard Disk Failure](https://gist.github.com/arrianmunsod/7296783d67095ba9057ab88e6835c672)**
-- **[CPU Debug Led Is On](https://gist.github.com/arrianmunsod/aeaeae6f5f513722d59598ad7805c9ee)**
-- **[Please Make Sure The Computer Case Is Properly Close](https://gist.github.com/arrianmunsod/4958f0ce5d89af5cb94af7d9c501dce8)**
-- **[When RAID configuration was built ensure to set SATA Configuration to RAID mode](https://gist.github.com/arrianmunsod/9bccf2f4daef164859236225f3dbcb05)**
-- **[Cant Enable Secure Boot](https://gist.github.com/arrianmunsod/688fc815b6d95478716e9ae12f8ea981)**
-- **[TP-Link Double NAT Issue](https://gist.github.com/arrianmunsod/d14e73aee4deab19f3a04d91285b4f04)**
-- **[USB Drive Windows UEFI Mode Only](https://gist.github.com/arrianmunsod/3a04dbf949ec5c9eb2a5a1fa6ddd5d57)**
-- **[TP-Link RE215 Repeater Setup](https://gist.github.com/arrianmunsod/a166e0f81574b803689774d181faffa3)**
+### 1.1. 
+- **[1.1. Blue Screen Of Death: PAGE_FAULT_IN_NON_PAGE_AREA](https://gist.github.com/arrianmunsod/1aa0be02213bb881e885b7be8b7d5652)**
+- **[1.2. BIOS Password HP SpareKey Recovery](https://gist.github.com/arrianmunsod/b8f7eb04d319b5058c0354be9a2468c2)**
+- **[1.3. Hard Disk Failure](https://gist.github.com/arrianmunsod/7296783d67095ba9057ab88e6835c672)**
+- **[1.4. CPU Debug Led Is On](https://gist.github.com/arrianmunsod/aeaeae6f5f513722d59598ad7805c9ee)**
+- **[1.5. Please Make Sure The Computer Case Is Properly Close](https://gist.github.com/arrianmunsod/4958f0ce5d89af5cb94af7d9c501dce8)**
+
+### 1.6.
+
+- **[1.6. When RAID configuration was built ensure to set SATA Configuration to RAID mode](https://gist.github.com/arrianmunsod/9bccf2f4daef164859236225f3dbcb05)**
+- **[1.7. Cant Enable Secure Boot](https://gist.github.com/arrianmunsod/688fc815b6d95478716e9ae12f8ea981)**
+- **[1.8. TP-Link Double NAT Issue](https://gist.github.com/arrianmunsod/d14e73aee4deab19f3a04d91285b4f04)**
+- **[1.9. USB Drive Windows UEFI Mode Only](https://gist.github.com/arrianmunsod/3a04dbf949ec5c9eb2a5a1fa6ddd5d57)**
+- **[2.0. TP-Link RE215 Repeater Setup](https://gist.github.com/arrianmunsod/a166e0f81574b803689774d181faffa3)**
+
+### 2.1. 
+
 - **[Garbage Display](https://gist.github.com/arrianmunsod/773c82c38b3a1b27262e9be011a28df5)**
 - **[Keyboard Key Automatically Presses Itself](https://gist.github.com/arrianmunsod/d119ac66b63d9bf6b886774e0480c162)**
 - **[Clock Watchdog Timeout](https://gist.github.com/arrianmunsod/0622ccd63501cb912271d3a0532b40fe)**
 - **[Bad System Config Info](https://gist.github.com/arrianmunsod/d0fd92df758510506d59e1998c161e7f)**
 - **[Insert Boot Media](https://gist.github.com/arrianmunsod/21521accc3df55344fc3509e0134f291)**
+
+### 2.6.
+
 - **[Detecting A Failing Component](https://gist.github.com/arrianmunsod/e8a0738347a4d599333ce7d1708b8c68)**
 - **[Windows Failed To Start](https://gist.github.com/arrianmunsod/23ff54c218af368d58ddf9e55b75bee2)**
 - **[Missing USB Driver](https://gist.github.com/arrianmunsod/a9bd6d228bb6f3031f2d2f8d33956af3)**
 - **[No DHCP Server Was Found](https://gist.github.com/arrianmunsod/3f06e5c82f66b0e5e76a96c17d27e4ea)**
 - **[Reconstructing Cache Metadata](https://gist.github.com/arrianmunsod/17fc7f2f3647651b6f65465894534276)**
+
+### 3.1.
+
 - **[Redistributable Package Error](https://gist.github.com/arrianmunsod/4f32bba7cfb1dec12d1d154d391e5d8b)**
 - **[Computer Wont Boot on Secure Boot](https://gist.github.com/arrianmunsod/4ba3ea88427fe373f7e6a75d460c1800)**
 - **[No Boot Device Selected](https://gist.github.com/arrianmunsod/31abd5aa7c9a9d47eb196492fba38484)**

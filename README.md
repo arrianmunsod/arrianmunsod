@@ -290,7 +290,14 @@ I leverage AI tools to assist with code generation, research, troubleshooting, a
 <br>
 
 ## 📚 eBooks 
-- **[CompTIA A+ | Network+ | Security+ | Linux+ | Server+ | Cisco CCNA | MCSA Windows Server](https://drive.google.com/drive/folders/1wBQyq4eWN0glUdT8D5I9EWfjiOO42RGb?usp=sharing)**
+
+- **[CompTIA A+](https://drive.google.com/drive/folders/1wBQyq4eWN0glUdT8D5I9EWfjiOO42RGb?usp=sharing)**
+- **[CompTIA Network+](https://drive.google.com/drive/folders/1wBQyq4eWN0glUdT8D5I9EWfjiOO42RGb?usp=sharing)** 
+- **[CompTIA Security+](https://drive.google.com/drive/folders/1wBQyq4eWN0glUdT8D5I9EWfjiOO42RGb?usp=sharing)** 
+- **[CompTIA Linux+](https://drive.google.com/drive/folders/1wBQyq4eWN0glUdT8D5I9EWfjiOO42RGb?usp=sharing)** 
+- **[CompTIA Server+](https://drive.google.com/drive/folders/1wBQyq4eWN0glUdT8D5I9EWfjiOO42RGb?usp=sharing)** 
+- **[Cisco CCNA](https://drive.google.com/drive/folders/1wBQyq4eWN0glUdT8D5I9EWfjiOO42RGb?usp=sharing)** 
+- **[MCSA Windows Server](https://drive.google.com/drive/folders/1wBQyq4eWN0glUdT8D5I9EWfjiOO42RGb?usp=sharing)**
 <br>
 
 ## 💿 Installer

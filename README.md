@@ -55,6 +55,9 @@
 ![Static Badge](https://img.shields.io/badge/Distributed%20Resource%20Scheduler-blue)
 <br>
 *
+# AI-Assisted Development
+
+I leverage AI tools to assist with code generation, research, troubleshooting, and technical documentation. All AI-assisted work is reviewed, tested, and refined before publication.
 
 ## 🅿️ PowerShell Scripts / Projects
 

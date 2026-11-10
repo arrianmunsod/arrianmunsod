@@ -113,25 +113,25 @@ I leverage AI tools to assist with code generation, research, troubleshooting, a
 
 ### 2.1. 
 
-- **[Garbage Display](https://gist.github.com/arrianmunsod/773c82c38b3a1b27262e9be011a28df5)**
-- **[Keyboard Key Automatically Presses Itself](https://gist.github.com/arrianmunsod/d119ac66b63d9bf6b886774e0480c162)**
-- **[Clock Watchdog Timeout](https://gist.github.com/arrianmunsod/0622ccd63501cb912271d3a0532b40fe)**
-- **[Bad System Config Info](https://gist.github.com/arrianmunsod/d0fd92df758510506d59e1998c161e7f)**
-- **[Insert Boot Media](https://gist.github.com/arrianmunsod/21521accc3df55344fc3509e0134f291)**
+- **[2.1. Garbage Display](https://gist.github.com/arrianmunsod/773c82c38b3a1b27262e9be011a28df5)**
+- **[2.2. Keyboard Key Automatically Presses Itself](https://gist.github.com/arrianmunsod/d119ac66b63d9bf6b886774e0480c162)**
+- **[2.3. Clock Watchdog Timeout](https://gist.github.com/arrianmunsod/0622ccd63501cb912271d3a0532b40fe)**
+- **[2.4. Bad System Config Info](https://gist.github.com/arrianmunsod/d0fd92df758510506d59e1998c161e7f)**
+- **[2.5. Insert Boot Media](https://gist.github.com/arrianmunsod/21521accc3df55344fc3509e0134f291)**
 
 ### 2.6.
 
-- **[Detecting A Failing Component](https://gist.github.com/arrianmunsod/e8a0738347a4d599333ce7d1708b8c68)**
-- **[Windows Failed To Start](https://gist.github.com/arrianmunsod/23ff54c218af368d58ddf9e55b75bee2)**
-- **[Missing USB Driver](https://gist.github.com/arrianmunsod/a9bd6d228bb6f3031f2d2f8d33956af3)**
-- **[No DHCP Server Was Found](https://gist.github.com/arrianmunsod/3f06e5c82f66b0e5e76a96c17d27e4ea)**
-- **[Reconstructing Cache Metadata](https://gist.github.com/arrianmunsod/17fc7f2f3647651b6f65465894534276)**
+- **[2.6. Detecting A Failing Component](https://gist.github.com/arrianmunsod/e8a0738347a4d599333ce7d1708b8c68)**
+- **[2.7. Windows Failed To Start](https://gist.github.com/arrianmunsod/23ff54c218af368d58ddf9e55b75bee2)**
+- **[2.8. Missing USB Driver](https://gist.github.com/arrianmunsod/a9bd6d228bb6f3031f2d2f8d33956af3)**
+- **[2.9. No DHCP Server Was Found](https://gist.github.com/arrianmunsod/3f06e5c82f66b0e5e76a96c17d27e4ea)**
+- **[3.0. Reconstructing Cache Metadata](https://gist.github.com/arrianmunsod/17fc7f2f3647651b6f65465894534276)**
 
 ### 3.1.
 
-- **[Redistributable Package Error](https://gist.github.com/arrianmunsod/4f32bba7cfb1dec12d1d154d391e5d8b)**
-- **[Computer Wont Boot on Secure Boot](https://gist.github.com/arrianmunsod/4ba3ea88427fe373f7e6a75d460c1800)**
-- **[No Boot Device Selected](https://gist.github.com/arrianmunsod/31abd5aa7c9a9d47eb196492fba38484)**
+- **[3.1. Redistributable Package Error](https://gist.github.com/arrianmunsod/4f32bba7cfb1dec12d1d154d391e5d8b)**
+- **[3.2. Computer Wont Boot on Secure Boot](https://gist.github.com/arrianmunsod/4ba3ea88427fe373f7e6a75d460c1800)**
+- **[3.3. No Boot Device Selected](https://gist.github.com/arrianmunsod/31abd5aa7c9a9d47eb196492fba38484)**
 <br>
 
 ## 📟 Miscellaneous

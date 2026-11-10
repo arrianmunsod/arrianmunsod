@@ -58,11 +58,10 @@
 
 ## 🅿️ PowerShell Scripts / Projects
 
-- **[POWERSHELL CHEAT SHEET 💢 ❗](https://gist.github.com/arrianmunsod/fb31bd300ca4e1e48e04cb1f7b144de0)**
-- **[Connecting PowerShell to a Remote Machine](https://gist.github.com/arrianmunsod/3c5b10840feb24e767c57e73be632eef)**
-- **[Automating Creation of an SMB File Share for Each User in an Active Directory Environment](https://gist.github.com/arrianmunsod/1d2bbb705a5f3f915070617405ed5b8f)**
-- **[Block All EXE Files in Folder and Subfolders Using Windows Firewall](https://gist.github.com/arrianmunsod/58f2309263bfa35636c27c91f71043e0)**
-- **[Block Microsoft Office, Adobe Products, Autodesk Products from Connecting to the Internet Using Windows Firewall](https://gist.github.com/arrianmunsod/f34a1ef23c3cd321d4ce402e80751575)**
+- **[1. POWERSHELL CHEAT SHEET 💢 ❗](https://gist.github.com/arrianmunsod/fb31bd300ca4e1e48e04cb1f7b144de0)**
+- **[2. Connecting PowerShell to a Remote Machine](https://gist.github.com/arrianmunsod/3c5b10840feb24e767c57e73be632eef)**
+- **[3. Block All EXE Files in Folder and Subfolders Using Windows Firewall](https://gist.github.com/arrianmunsod/58f2309263bfa35636c27c91f71043e0)**
+- **[4. Block Microsoft Office, Adobe Products, Autodesk Products from Connecting to the Internet Using Windows Firewall](https://gist.github.com/arrianmunsod/f34a1ef23c3cd321d4ce402e80751575)**
 
 <!-- 
 <details>

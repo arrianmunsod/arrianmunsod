@@ -73,8 +73,8 @@ I leverage AI tools to assist with code generation, research, troubleshooting, a
 
 ## 📁 Windows Server Projects and Labs
 
-### 1. Miscellaneous
-- **[1.1. Auditing Folders And Files](https://gist.github.com/arrianmunsod/0fa0d96282a861c0695ec4d5603b80b4)**
+### 2. Group Policy
+- **[2.1. Auditing Folders And Files](https://gist.github.com/arrianmunsod/0fa0d96282a861c0695ec4d5603b80b4)**
 <br>
 
 ## 📗📘 Microsoft Office and MS 365

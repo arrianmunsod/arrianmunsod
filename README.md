@@ -69,24 +69,11 @@ I leverage AI tools to assist with code generation, research, troubleshooting, a
 - **[1.3. Block All EXE Files in Folder and Subfolders Using Windows Firewall](https://gist.github.com/arrianmunsod/58f2309263bfa35636c27c91f71043e0)**
 - **[1.4. Block Microsoft Office, Adobe Products, Autodesk Products from Connecting to the Internet Using Windows Firewall](https://gist.github.com/arrianmunsod/f34a1ef23c3cd321d4ce402e80751575)**
 
-<!-- 
-<details>
-  <summary><h1>🚨 <kbd>VIEW MORE PROJECTS ↓</kbd> 🚨</h1></summary>
-
- ### [Automating Creation of an SMB File Share to All Users in an Active Directory Environment](https://github.com/arrianmunsod/PowerShell-Projects/blob/main/Creating-An-SMB-File-Share.ps1)
-
- ### [Automating Creation of an SMB File Share to All Users in an Active Directory Environment](https://github.com/arrianmunsod/PowerShell-Projects/blob/main/Creating-An-SMB-File-Share.ps1)
-
- ### [Automating Creation of an SMB File Share to All Users in an Active Directory Environment](https://github.com/arrianmunsod/PowerShell-Projects/blob/main/Creating-An-SMB-File-Share.ps1)
-
-</details>
--->
 <br>
 
 ## 📁 Windows Server Projects and Labs
 
 - **[Auditing Folders And Files](https://gist.github.com/arrianmunsod/0fa0d96282a861c0695ec4d5603b80b4)**
-- **[Creating an SMB Share](https://gist.github.com/arrianmunsod/190cb1ee6ed70388a28fb13c9a94ea08)**
 <br>
 
 ## 📗📘 Microsoft Office and MS 365

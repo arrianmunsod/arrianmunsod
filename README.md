@@ -281,6 +281,7 @@ I leverage AI tools to assist with code generation, research, troubleshooting, a
 ## 🔍 Verify My Credentials
 **Verify my complete list of credentials at:** <br>
 **www.credly.com/users/arrianmunsod**<br>
+**and** <br>
 **www.credential.net/profile/arrianmunsod**
 - **American Council on Education (ACE) College Credits**
 - **Certifications**

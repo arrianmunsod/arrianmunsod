@@ -82,6 +82,7 @@ I leverage AI tools to assist with code generation, research, troubleshooting, a
 - **[1. Microsoft Word - Automated Image Resizing Based on Table Cell Dimensions](https://gist.github.com/arrianmunsod/781dd63147e3ff409dec5575f98dd4dc)**
 - **[2. Microsoft Excel Automation – Resize Images to Match Cell Size](https://gist.github.com/arrianmunsod/81917684b039d048bf6c8500cf21b901)**
 - **[3. Excel to Word Auto-Fill Automation](https://github.com/arrianmunsod/ExcelToWordAutoFillAutomation)**
+- **[4. Microsoft Word - Picture Insertion Automation](https://github.com/arrianmunsod/Microsoft-Word-Automated-Picture-Insertion)**
 <br>
 
 ## 👨🏽‍💻 Linux Projects, Labs, Tutorials

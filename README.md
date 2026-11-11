@@ -67,7 +67,7 @@ I leverage AI tools to assist with code generation, research, troubleshooting, a
 - **[1.1. POWERSHELL CHEAT SHEET 💢 ❗](https://gist.github.com/arrianmunsod/fb31bd300ca4e1e48e04cb1f7b144de0)**
 - **[1.2. Connecting PowerShell to a Remote Machine](https://gist.github.com/arrianmunsod/3c5b10840feb24e767c57e73be632eef)**
 - **[1.3. Block All EXE Files in Folder and Subfolders Using Windows Firewall](https://github.com/arrianmunsod/block-all-exe-in-a-folder-using-windows-firewall)**
-- **[1.4. Block Microsoft Office, Adobe Products, Autodesk Products from Connecting to the Internet Using Windows Firewall](https://gist.github.com/arrianmunsod/f34a1ef23c3cd321d4ce402e80751575)**
+- **[1.4. Block Microsoft Office, Adobe Products, Autodesk Products from Connecting to the Internet Using Windows Firewall](https://github.com/arrianmunsod/block-exe-ms-autocad-adobe)**
 
 <br>
 

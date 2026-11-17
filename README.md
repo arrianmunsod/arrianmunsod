@@ -279,6 +279,12 @@ I leverage AI tools to assist with code generation, research, troubleshooting, a
 - **Certificates of Completion**
 <br>
 
+## 🔍 Download my employment documents 
+- **[Resumé](https://github.com/arrianmunsod/employment-documents)**
+- **[Certificates / Certifications](https://github.com/arrianmunsod/employment-documents)** 
+- **[Transcript of Records](https://github.com/arrianmunsod/employment-documents)** 
+<br>
+
 ## 📚 eBooks 
 
 - **[CompTIA A+](https://drive.google.com/drive/folders/1wBQyq4eWN0glUdT8D5I9EWfjiOO42RGb?usp=sharing)**

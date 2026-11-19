@@ -240,7 +240,7 @@ I leverage AI tools to assist with code generation, research, troubleshooting, a
 - **Certificates of Completion**
 <br>
 
-## 📑 Download or my employment documents 
+## 📑 Download or view my employment documents 
 - **[Resumé](https://github.com/arrianmunsod/employment-documents)**
 - **[Certificates / Certifications](https://github.com/arrianmunsod/employment-documents)** 
 - **[Transcript of Records](https://github.com/arrianmunsod/employment-documents)**

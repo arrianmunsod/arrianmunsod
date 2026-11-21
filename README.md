@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="images/github-banner.png"
+       width="100%"
+       alt="Arrian Munsod - System Administrator">
+</p>
+
 # 👨‍💼 Arrian Munsod
 
 ### System Administrator <br>
